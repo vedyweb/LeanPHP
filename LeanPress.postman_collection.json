@@ -1,0 +1,221 @@
+{
+	"info": {
+		"_postman_id": "e2492828-2374-4aa9-9f78-a6b239081831",
+		"name": "LeanPress",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29131609"
+	},
+	"item": [
+		{
+			"name": "http://localhost/leanpress/register",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"username\": \"test\",\r\n  \"password\": \"pass123\",\r\n  \"email\": \"test@example.com\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost/leanpress/register",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"leanpress",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "auth http://localhost/leanpress/user/1",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjIsIm5hbWUiOiJ0ZXN0dXNlcjIiLCJpYXQiOjE2OTIxMDQ2MjYsImV4cCI6MTY5MjEwODIyNn0=.X89Ex2tJbHaCvjJoYnVE6HFxk4irfmWITpFA0xWjx9U=",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost/leanpress/users",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"leanpress",
+						"users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "auth http://localhost/leanpress/user/1 Copy",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjIsIm5hbWUiOiJ0ZXN0dXNlcjIiLCJpYXQiOjE2OTIxMDQ2MjYsImV4cCI6MTY5MjEwODIyNn0=.X89Ex2tJbHaCvjJoYnVE6HFxk4irfmWITpFA0xWjx9U=",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost/leanpress/user/id",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"leanpress",
+						"user",
+						"id"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost/leanpress/login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"username\": \"test\",\r\n  \"password\": \"pass123\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost/leanpress/login",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"leanpress",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost/leanpress/forgot-password",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"email\": \"testuser4@example.com\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost/leanpress/forgot-password",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"leanpress",
+						"forgot-password"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost/leanpress/reset-password/7e97c40c0a4e12d0a29ffe3dba7c0f126303e253e76488f1932bcfba9f4dadf87233af427d63b85d80262a4746e32b8610a7",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/leanpress/reset-password/7e97c40c0a4e12d0a29ffe3dba7c0f126303e253e76488f1932bcfba9f4dadf87233af427d63b85d80262a4746e32b8610a7",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"leanpress",
+						"reset-password",
+						"7e97c40c0a4e12d0a29ffe3dba7c0f126303e253e76488f1932bcfba9f4dadf87233af427d63b85d80262a4746e32b8610a7"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost/leanpress/reset-password/142fc51df5fa174e6ccc312aca99088b4adfd245f883d09ccba7711bf8e73ce818b6170112483943849dea30a075344c5bba",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"new_password\": \"your_new_password_here\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost/leanpress/reset-password/142fc51df5fa174e6ccc312aca99088b4adfd245f883d09ccba7711bf8e73ce818b6170112483943849dea30a075344c5bba",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"leanpress",
+						"reset-password",
+						"142fc51df5fa174e6ccc312aca99088b4adfd245f883d09ccba7711bf8e73ce818b6170112483943849dea30a075344c5bba"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -1,0 +1,12 @@
+- project-root/
+  - src/
+    - Model/
+      - BaseModel.php
+      - UserModel.php
+    - Controller/
+      - UserController.php
+    - Utils/
+      - Logger.php
+  - vendor/ (Eğer Composer kullanırsanız bu dizin oluşacaktır.)
+  - index.php
+  - autoload.php

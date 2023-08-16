@@ -1,0 +1,6 @@
+[2023-08-14 14:13:53] SQLSTATE[HY000] [2019] Unknown character set
+[2023-08-14 23:05:53] SQLSTATE[08004] [1040] Too many connections
+[2023-08-15 11:41:01] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test.users' doesn't exist
+[2023-08-15 11:41:25] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test.users' doesn't exist
+[2023-08-15 11:41:27] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test.users' doesn't exist
+[2023-08-15 12:06:32] could not find driver
