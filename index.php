@@ -2,6 +2,10 @@
 
 require 'autoload.php';
 
+global $config;
+$config = parse_ini_file('env.ini', true);
+define('PROJECT_FOLDER', '/leanPHP/');
+
 /**
  * Initialize the router.
  */
@@ -9,16 +13,15 @@ use LeanPress\Core\Router\Router;
 use LeanPress\Core\Middleware\JwtAuth;
 
 $router = new Router();
-
 /**
  * User routes
  *
  * To get all users via Postman:
  * GET http://localhost/leanpress/users
  */
-//$router->addMiddleware('/leanpress/users', 'LeanPress\Core\Middleware\JwtAuth', 'getAuthenticate');
+//$router->addMiddleware(PROJECT_FOLDER . '/users', 'LeanPress\Core\Middleware\JwtAuth', 'getAuthenticate');
 
-$router->get('/leanpress/users', 'LeanPress\Controller\UserControllerAPI', 'getAllUsers');
+$router->get(PROJECT_FOLDER . 'users', 'LeanPress\Controller\UserControllerAPI', 'getAllUsers');
 
 /**
  * Get specific user by ID
@@ -28,9 +31,9 @@ $router->get('/leanpress/users', 'LeanPress\Controller\UserControllerAPI', 'getA
  */
 
 // Auth Kontrol
-$router->addMiddleware('/leanpress/user/{id}', 'LeanPress\Core\Middleware\JwtAuth', 'getAuthenticate');
+$router->addMiddleware(PROJECT_FOLDER . 'user/{id}', 'LeanPress\Core\Middleware\JwtAuth', 'getAuthenticate');
 // If Auth Kontrol True, than get user id ....
-$router->get('/leanpress/user/{id}', 'LeanPress\Controller\UserControllerAPI', 'getUserById');
+$router->get(PROJECT_FOLDER . 'user/{id}', 'LeanPress\Controller\UserControllerAPI', 'getUserById');
 
 
 
@@ -44,7 +47,7 @@ $router->get('/leanpress/user/{id}', 'LeanPress\Controller\UserControllerAPI', '
  *     "password": "samplepassword"
  * }
  */
-$router->post('/leanpress/login', 'LeanPress\Controller\AuthController', 'login');
+$router->post(PROJECT_FOLDER . 'login', 'LeanPress\Controller\AuthController', 'login');
 
 /**
  * For user registration via Postman:
@@ -55,7 +58,7 @@ $router->post('/leanpress/login', 'LeanPress\Controller\AuthController', 'login'
  *     "email": "sample@email.com"
  * }
  */
-$router->post('/leanpress/register', 'LeanPress\Controller\AuthController', 'register');
+$router->post(PROJECT_FOLDER . 'register', 'LeanPress\Controller\AuthController', 'register');
 
 /**
  * For password reset request via Postman:
@@ -64,13 +67,13 @@ $router->post('/leanpress/register', 'LeanPress\Controller\AuthController', 'reg
  *     "email": "sample@email.com"
  * }
  */
-$router->post('/leanpress/forgot-password', 'LeanPress\Controller\AuthController', 'forgotPassword');
+$router->post(PROJECT_FOLDER . 'forgot-password', 'LeanPress\Controller\AuthController', 'forgotPassword');
 
 /**
  * Direct password reset link (to be sent via email):
  * Example: http://localhost/leanpress/reset-password/12345
  */
-$router->get('/leanpress/reset-password/{token}', 'LeanPress\Controller\AuthController', 'resetPassword');
+$router->get(PROJECT_FOLDER . 'reset-password/{token}', 'LeanPress\Controller\AuthController', 'resetPassword');
 
 try {
     $router->dispatch($_SERVER['REQUEST_URI']);

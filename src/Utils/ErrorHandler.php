@@ -6,7 +6,7 @@ use Exception;
 class ErrorHandler {
     private $filePath;
 
-    public function __construct($filePath = "errors.log") {
+    public function __construct($filePath = "general_errors.log") {
         $this->filePath = $filePath;
     }
 

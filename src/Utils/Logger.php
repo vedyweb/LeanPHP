@@ -6,7 +6,7 @@ use Exception;
 class Logger {
     private $filePath;
 
-    public function __construct($filePath = "errors.log") {
+    public function __construct($filePath = "general_errors.log") {
         $this->filePath = $filePath;
     }
 
@@ -18,7 +18,7 @@ class Logger {
 
     public function handle(Exception $e) {
         // Log the error. This is a simplistic example; in a real-world scenario, you'd use a logging library or mechanism.
-        file_put_contents('errors.log', $e->getMessage() . PHP_EOL, FILE_APPEND);
+        file_put_contents('general_errors.log', $e->getMessage() . PHP_EOL, FILE_APPEND);
     
         // Return a generic error message.
         return [

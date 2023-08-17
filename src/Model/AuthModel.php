@@ -19,7 +19,7 @@ class AuthModel extends BaseModel {
      * @param string $message The error message.
      */
     private function logError($message) {
-        error_log("[" . date("Y-m-d H:i:s") . "] ERROR in AuthModel: " . $message . "\n", 3, "error.log");
+        error_log("[" . date("Y-m-d H:i:s") . "] ERROR in AuthModel: " . $message . "\n", 3, "auth_errors.log");
     }
 
     /**
