@@ -1,7 +1,4 @@
-# LeanPHP
-LeanPHP is for Lean and Better PHP Development.
-
-LeanPress/
+# LeanPress/
 │
 ├── config/             # Konfigürasyon dosyaları
 │   ├── database.php
