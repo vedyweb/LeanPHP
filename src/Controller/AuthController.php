@@ -1,11 +1,11 @@
 <?php
 
-namespace LeanPress\Controller;
+namespace LeanPHP\Controller;
 
-use LeanPress\Core\Http\Request;
-use LeanPress\Core\Http\Response;
-use LeanPress\Model\AuthModel;
-use LeanPress\Helpers\JwtHelper;
+use LeanPHP\Core\Http\Request;
+use LeanPHP\Core\Http\Response;
+use LeanPHP\Model\AuthModel;
+use LeanPHP\Helpers\JwtHelper;
 use Exception;
 
 class AuthController {
@@ -105,7 +105,7 @@ class AuthController {
 
             $resetToken = bin2hex(random_bytes(50));
             $this->userAuthModel->storeResetToken($user['user_id'], $resetToken);
-            $resetLink = "/leanpress/reset-password/{$resetToken}";
+            $resetLink = "/LeanPHP/reset-password/{$resetToken}";
 
             if (!$this->sendResetEmail($user['email'], $resetLink)) {
                 throw new Exception("Failed to send reset email.");
@@ -162,7 +162,7 @@ class AuthController {
         return "
             <html>
             <body>
-            <h2>LeanPress Password Reset</h2>
+            <h2>LeanPHP Password Reset</h2>
             <p>Click the link below to reset your password:</p>
             <a href='{$link}'>Reset Password</a>
             </body>
@@ -179,9 +179,9 @@ class AuthController {
      */
     private function sendResetEmail($email, $link) {
         $to = $email;
-        $subject = "LeanPress Password Reset";
+        $subject = "LeanPHP Password Reset";
         $message = $this->generateEmailBody($link);
-        $headers = "From: no-reply@leanpress.com\r\n";
+        $headers = "From: no-reply@LeanPHP.com\r\n";
         $headers .= "Content-type: text/html\r\n";
         echo "email gönderdim linkle" . $link;
         //return mail($to, $subject, $message, $headers);

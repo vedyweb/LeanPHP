@@ -1,7 +1,7 @@
 # LeanPHP
 LeanPHP is for Lean and Better PHP Development.
 
-LeanPress/
+LeanPHP/
 │
 ├── config/             # Konfigürasyon dosyaları
 │   ├── database.php
@@ -62,7 +62,7 @@ Bu yapı, modern PHP uygulamalarında yaygın olarak kullanılan bir yapıdır v
 
 Son olarak, bu yapıyı kullanırken composer ve PSR-4 otomatik yükleme (autoload) özelliklerini kullanmanızı öneririm. Bu sayede sınıflarınızı kolayca yönetebilir ve organize edebilirsiniz.
 
-- LeanPress/
+- LeanPHP/
   - data      // SQL vs.
   - install   // data klasörndeki SQL vs. ile kurulum için gerekli komutlar var, kurulum bitince kaldırılacak.
   - src/

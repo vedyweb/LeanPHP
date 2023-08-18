@@ -1,8 +1,8 @@
 <?php
-namespace LeanPress\Core\Middleware;
-use LeanPress\Core\Http\Request;
-use LeanPress\Core\Http\Response;
-use LeanPress\Model\AuthModel;
+namespace LeanPHP\Core\Middleware;
+use LeanPHP\Core\Http\Request;
+use LeanPHP\Core\Http\Response;
+use LeanPHP\Model\AuthModel;
 
 class JwtAuth {
 

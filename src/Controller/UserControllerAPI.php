@@ -1,10 +1,10 @@
 <?php
 
-namespace LeanPress\Controller;
-use LeanPress\Model\UserModel;
-use LeanPress\Utils\ErrorHandler;
-use LeanPress\Core\Http\Request;
-use LeanPress\Core\Http\Response;
+namespace LeanPHP\Controller;
+use LeanPHP\Model\UserModel;
+use LeanPHP\Utils\ErrorHandler;
+use LeanPHP\Core\Http\Request;
+use LeanPHP\Core\Http\Response;
 use Exception;
 
 class UserControllerAPI {
@@ -50,8 +50,13 @@ class UserControllerAPI {
 
     public function createUser(Request $request, Response $response): void {
         try {
-            $userData = $request->getParsedBody(); // Bu POST verisini almak için bir varsayım
-            $newUser = $this->userModel->create($userData);
+            $userData = $request->getParsedBody();
+            $newUser = $this->userModel->create(
+                $userData['email'],
+                $userData['username'],
+                $userData['password'],
+                $userData['avatar_url']
+            );
             $response->withJson(['data' => $newUser])->send();
         } catch (Exception $e) {
             $error = $this->errorHandler->handle($e);

@@ -1,8 +1,8 @@
 <?php
 
-namespace LeanPress\Model;
-use LeanPress\Core\Interface\IModel;
-use LeanPress\Model\BaseModel;
+namespace LeanPHP\Model;
+use LeanPHP\Core\Interface\IModel;
+use LeanPHP\Model\BaseModel;
 
 use PDO;
 use PDOException;
@@ -56,15 +56,14 @@ class UserModel extends BaseModel {
      * @param string|null $bio
      * @return bool
      */
-    public function create(string $username, string $email, string $password, string $profilePicture = null, string $bio = null): bool {
-        $query = "INSERT INTO $this->table (username, email, password, profile_picture, bio) VALUES (:username, :email, :password, :profilePicture, :bio)";
+    public function create(string $username, string $email, string $password, string $profilePicture = null): bool {
+        $query = "INSERT INTO $this->table (username, email, password, avatar_url) VALUES (:username, :email, :password, :profilePicture)";
         try {
             $stmt = $this->db->prepare($query);
             $stmt->bindParam(':username', $username, PDO::PARAM_STR);
             $stmt->bindParam(':email', $email, PDO::PARAM_STR);
             $stmt->bindParam(':password', $password, PDO::PARAM_STR); // Remember to hash the password before storing.
             $stmt->bindParam(':profilePicture', $profilePicture, PDO::PARAM_STR);
-            $stmt->bindParam(':bio', $bio, PDO::PARAM_STR);
             return $stmt->execute();
         } catch (PDOException $e) {
             $this->handleException($e);

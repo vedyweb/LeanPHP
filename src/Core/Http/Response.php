@@ -1,6 +1,6 @@
 <?php
 
-namespace LeanPress\Core\Http;
+namespace LeanPHP\Core\Http;
 
 class Response {
     private $body;

@@ -1,6 +1,6 @@
 <?php
 
-namespace LeanPress\Utils;
+namespace LeanPHP\Utils;
 use Exception;
 
 class ErrorHandler {

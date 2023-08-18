@@ -1,13 +1,13 @@
 <?php
 
-namespace LeanPress\Core\Interface;
+namespace LeanPHP\Core\Interface;
 
 /**
  * Interface IController
  * 
  * Represents the standard operations for controllers.
  * 
- * @package LeanPress\Core\Contracts
+ * @package LeanPHP\Core\Contracts
  */
 interface IController {
 

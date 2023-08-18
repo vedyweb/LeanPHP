@@ -8,6 +8,6 @@ class HomeController
      */
     public function index()
     {
-        echo "Wellcome to LeanPress!";
+        echo "Wellcome to LeanPHP!";
     }
 }

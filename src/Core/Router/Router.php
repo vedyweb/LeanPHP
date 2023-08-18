@@ -1,6 +1,6 @@
 <?php
 
-namespace LeanPress\Core\Router;
+namespace LeanPHP\Core\Router;
 
 class Router
 {
@@ -24,8 +24,8 @@ class Router
 
     public function dispatch($uri)
     {
-        $request = new \LeanPress\Core\Http\Request();
-        $response = new \LeanPress\Core\Http\Response();
+        $request = new \LeanPHP\Core\Http\Request();
+        $response = new \LeanPHP\Core\Http\Response();
         $requestMethod = $_SERVER['REQUEST_METHOD'];
         $matched = false;
         $middlewarePassed = true;

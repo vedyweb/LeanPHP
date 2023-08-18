@@ -1,6 +1,6 @@
 <?php
 
-namespace LeanPress\Model;
+namespace LeanPHP\Model;
 
 use PDOException;
 

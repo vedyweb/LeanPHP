@@ -1,13 +1,13 @@
 {
 	"info": {
 		"_postman_id": "e2492828-2374-4aa9-9f78-a6b239081831",
-		"name": "LeanPress",
+		"name": "LeanPHP",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "29131609"
 	},
 	"item": [
 		{
-			"name": "http://localhost/leanpress/register",
+			"name": "http://localhost/LeanPHP/register",
 			"request": {
 				"method": "POST",
 				"header": [],
@@ -21,13 +21,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost/leanpress/register",
+					"raw": "http://localhost/LeanPHP/register",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
 					"path": [
-						"leanpress",
+						"LeanPHP",
 						"register"
 					]
 				}
@@ -35,7 +35,7 @@
 			"response": []
 		},
 		{
-			"name": "auth http://localhost/leanpress/user/1",
+			"name": "auth http://localhost/LeanPHP/user/1",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -58,13 +58,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost/leanpress/users",
+					"raw": "http://localhost/LeanPHP/users",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
 					"path": [
-						"leanpress",
+						"LeanPHP",
 						"users"
 					]
 				}
@@ -72,7 +72,7 @@
 			"response": []
 		},
 		{
-			"name": "auth http://localhost/leanpress/user/1 Copy",
+			"name": "auth http://localhost/LeanPHP/user/1 Copy",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -95,13 +95,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost/leanpress/user/id",
+					"raw": "http://localhost/LeanPHP/user/id",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
 					"path": [
-						"leanpress",
+						"LeanPHP",
 						"user",
 						"id"
 					]
@@ -110,7 +110,7 @@
 			"response": []
 		},
 		{
-			"name": "http://localhost/leanpress/login",
+			"name": "http://localhost/LeanPHP/login",
 			"request": {
 				"method": "POST",
 				"header": [],
@@ -124,13 +124,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost/leanpress/login",
+					"raw": "http://localhost/LeanPHP/login",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
 					"path": [
-						"leanpress",
+						"LeanPHP",
 						"login"
 					]
 				}
@@ -138,7 +138,7 @@
 			"response": []
 		},
 		{
-			"name": "http://localhost/leanpress/forgot-password",
+			"name": "http://localhost/LeanPHP/forgot-password",
 			"request": {
 				"method": "POST",
 				"header": [],
@@ -152,13 +152,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost/leanpress/forgot-password",
+					"raw": "http://localhost/LeanPHP/forgot-password",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
 					"path": [
-						"leanpress",
+						"LeanPHP",
 						"forgot-password"
 					]
 				}
@@ -166,18 +166,18 @@
 			"response": []
 		},
 		{
-			"name": "http://localhost/leanpress/reset-password/7e97c40c0a4e12d0a29ffe3dba7c0f126303e253e76488f1932bcfba9f4dadf87233af427d63b85d80262a4746e32b8610a7",
+			"name": "http://localhost/LeanPHP/reset-password/7e97c40c0a4e12d0a29ffe3dba7c0f126303e253e76488f1932bcfba9f4dadf87233af427d63b85d80262a4746e32b8610a7",
 			"request": {
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost/leanpress/reset-password/7e97c40c0a4e12d0a29ffe3dba7c0f126303e253e76488f1932bcfba9f4dadf87233af427d63b85d80262a4746e32b8610a7",
+					"raw": "http://localhost/LeanPHP/reset-password/7e97c40c0a4e12d0a29ffe3dba7c0f126303e253e76488f1932bcfba9f4dadf87233af427d63b85d80262a4746e32b8610a7",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
 					"path": [
-						"leanpress",
+						"LeanPHP",
 						"reset-password",
 						"7e97c40c0a4e12d0a29ffe3dba7c0f126303e253e76488f1932bcfba9f4dadf87233af427d63b85d80262a4746e32b8610a7"
 					]
@@ -186,7 +186,7 @@
 			"response": []
 		},
 		{
-			"name": "http://localhost/leanpress/reset-password/142fc51df5fa174e6ccc312aca99088b4adfd245f883d09ccba7711bf8e73ce818b6170112483943849dea30a075344c5bba",
+			"name": "http://localhost/LeanPHP/reset-password/142fc51df5fa174e6ccc312aca99088b4adfd245f883d09ccba7711bf8e73ce818b6170112483943849dea30a075344c5bba",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -203,13 +203,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost/leanpress/reset-password/142fc51df5fa174e6ccc312aca99088b4adfd245f883d09ccba7711bf8e73ce818b6170112483943849dea30a075344c5bba",
+					"raw": "http://localhost/LeanPHP/reset-password/142fc51df5fa174e6ccc312aca99088b4adfd245f883d09ccba7711bf8e73ce818b6170112483943849dea30a075344c5bba",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
 					"path": [
-						"leanpress",
+						"LeanPHP",
 						"reset-password",
 						"142fc51df5fa174e6ccc312aca99088b4adfd245f883d09ccba7711bf8e73ce818b6170112483943849dea30a075344c5bba"
 					]

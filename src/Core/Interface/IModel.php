@@ -1,13 +1,13 @@
 <?php
 
-namespace LeanPress\Core\Interface;
+namespace LeanPHP\Core\Interface;
 
 /**
  * Interface IModel
  * 
  * Represents the standard operations for data models.
  * 
- * @package LeanPress\Core\Contracts
+ * @package LeanPHP\Core\Contracts
  */
 interface IModel {
 

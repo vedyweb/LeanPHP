@@ -1,7 +1,7 @@
 <?php
 
 spl_autoload_register(function ($class) {
-    $prefix = 'LeanPress\\';
+    $prefix = 'LeanPHP\\';
 
     $len = strlen($prefix);
     if (strncmp($prefix, $class, $len) !== 0) {

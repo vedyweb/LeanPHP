@@ -5,18 +5,18 @@
  * This class handles database connections using PHP Data Objects (PDO).
  * It provides a consistent way to connect to the database and perform operations.
  *
- * @package     LEANPRESS
+ * @package     LeanPHP
  * @version     1.1.0
- * @link        http://www.leanpress.com
+ * @link        http://www.LeanPHP.com
  * @license     GPL/GNU 3.0 
  * @author      Vedat Yildirim <info@vedatyildirim.com>
  */
 
-namespace LeanPress\Model;
+namespace LeanPHP\Model;
 
 use PDO;
 use PDOException;
-use LeanPress\Utils\Logger;
+use LeanPHP\Utils\Logger;
 
 class BaseModel
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace LeanPress\Helpers;
+namespace LeanPHP\Helpers;
 
 class JwtHelper {
     private $secret = "supersecretkey";
