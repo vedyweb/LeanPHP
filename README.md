@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 # LeanPHP
 LeanPHP is for Lean and Better PHP Development.
 
 LeanPHP/
+=======
+# LeanPress/
+>>>>>>> 5a1afdb4e731de7f717f398c969998ec1be18b92
 │
 ├── config/             # Konfigürasyon dosyaları
 │   ├── database.php
