@@ -1,0 +1,143 @@
+
+###
+# Headerda Postman gibi User-Agent bilgisi olmadan sonuç dönmüyor,.
+# Kayıt/Üye olunmadan login olunamaz.
+# Login olunmadan da token alınıp bir middleware (/auth gibi) bir api çağrılamaz.
+# Önce kayıt ol:
+#
+# NOT: Aynı kullanıcı defalarca kayıt olamasın diye kodsal değişiklik yapıldı, tabloda da yapılması gerekiyor.
+# Login işlemi falan da çalışmıyor çoklu kayıtta, logindeki sorun oymuş sabahtan beri.
+# ALTER TABLE users ADD UNIQUE (username);
+# ALTER TABLE users ADD UNIQUE (email);
+#
+###
+
+
+@hostname = http://localhost/leanphp
+@path = api
+@userAgent = leanphpRestClient
+@username=kazim
+@password=kazim57
+@email=kazim@yildirim.com
+@emailOrUsername=vedyweb44@example.com
+@role=user
+@firstname=John
+@lastname=Doe
+@avatar_url=http://example.com/avatar.jpg
+@address=123 Main St
+@phone=123-456-7890
+@date_of_birth=1990-01-01
+@bio=Lorem ipsum dolor sit amet.
+@website_url=http://example.com
+@twitter_handle=@johndoe
+@linkedin_profile=http://linkedin.com/in/johndoe
+@status=active
+@admin=sistem
+
+
+@token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEyLCJpZGVudGlmaWVyIjoia2F6aW0iLCJyb2xlIjoidXNlciIsImlhdCI6MTcxNjMyNzQ0MSwiZXhwIjoxNzE2MzMxMDQxfQ.05b3yq8BR6gLgdM2WBCtlwzv59y0cIRoDJbr4Ocy0hE
+### User Registration
+POST {{hostname}}/register HTTP/1.1
+Content-Type: application/json
+User-Agent: {{userAgent}}
+
+{
+    "username": "{{username}}",
+    "password": "{{password}}",
+    "email": "{{email}}",
+    "role": "{{role}}",
+    "status": "{{status}}",
+    "firstname": "{{firstname}}",
+    "lastname": "{{lastname}}",
+    "avatar_url": "{{avatar_url}}",
+    "address": "{{address}}",
+    "phone": "{{phone}}",
+    "date_of_birth": "{date_of_birth}}",
+    "bio": "{{bio}}",
+    "website_url": "{{website_url}}",
+    "twitter_handle": "{{twitter_handle}}",
+    "linkedin_profile": "{{linkedin_profile}}",
+    "created_by": "{{admin}}",
+    "updated_by": "{{admin}}"
+}
+
+###
+# Kayıt olduğun veya kayıtlı bir kullanıcıyla login ol:
+# Ardından sana 1 saat süresi olan bir token gelecek.
+# Kullanıcı bilgilerini içeren o tokenla middleware servislerine erişebilirsin.
+###
+
+### İster email, ister username ile girebiliyor ama iki alan da FE'den null gelmemeli.
+POST {{hostname}}/login HTTP/1.1
+Content-Type: application/json
+User-Agent: {{userAgent}}
+
+{
+  "username": "{{username}}",
+  "email": "{{email}}",
+  "password": "{{password}}"
+}
+
+### GÜNCEL TOKEN'I YAZ :) 
+# Heade alanında loginden aldığın 1 saat geçerli olan tokenla bu servisi çağırmazsan,
+# nu hatayı verir: {"error":"Internal Server Error"message":"Invalid or expired token"}
+# Her headera bearer token eklemen gerekecek middleware kullanılan metodlar için.
+# Bu metod özel, tokenı parce edip user'ı buluyor mesela :)
+###
+POST {{hostname}}/auth/dashboard HTTP/1.1
+Content-Type: application/json
+User-Agent: {{userAgent}}
+Authorization: Bearer {{token}}
+
+###
+
+GET {{hostname}}/secret HTTP/1.1
+Content-Type: application/json
+User-Agent: {{userAgent}}
+Authorization: Bearer {{token}}
+
+###
+# Veritabanı oluşturulmuşsa bu metod başarılı bir şekilde userları ekliyor.
+GET {{hostname}}/install HTTP/1.1
+Content-Type: application/json
+User-Agent: {{userAgent}}
+Authorization: Bearer {{token}}
+
+###
+
+GET {{hostname}}/api/users HTTP/1.1
+Content-Type: application/json
+User-Agent: {{userAgent}}
+
+###
+
+GET {{hostname}}/api/user/3 HTTP/1.1
+Content-Type: application/json
+User-Agent: {{userAgent}}
+
+
+###
+# Buraya maili yazıp post ettiğinde, sana dönen token'a tıklayarak şifreni sıfırlayabiliyorsun.
+# Bu şekilde bir yanıt dönüyor: https://localhost/resetPassword/6431bd.....
+POST {{hostname}}/sendMailForForgotPassword HTTP/1.1
+Content-Type: application/json
+User-Agent: {{userAgent}}
+
+{
+  "email":"{{email}}"
+}
+
+###
+# Öncelikle mail olarak şu linke geliniyor, ama bu backend linki tabii ki,
+# Bu linki FE üzerinden alabilmesi için FE ye gelmesi gerek.
+# FE yeni şifresini de alıp backende gmüönderecek.
+# Örnek response 18 - vedyweb{"message":"Token is valid and Password updated successfully"}
+# Bundan sonra tekrar login olduğunda yeni şifrenmi giriyorsun.
+
+POST {{hostname}}/resetPassword/4162a39b0581b5c5b9b61b5a1469ab8b8b7714d71057b420beb65e29848b028c74798e3f70fd2d7573c0557e81493121bbfb
+Content-Type: application/json
+User-Agent: {{userAgent}}
+
+{
+  "newPassword":"kazim57"
+}

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Forgot Password</title>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+  <div class="flex min-h-full flex-col justify-center px-6 py-12 lg:px-8">
+    <div class="sm:mx-auto sm:w-full sm:max-w-sm">
+      <img class="mx-auto h-10 w-auto" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600" alt="Your Company">
+      <h2 class="mt-10 text-center text-2xl font-bold leading-9 tracking-tight text-gray-900">Forgot your password?</h2>
+    </div>
+
+    <div class="mt-10 sm:mx-auto sm:w-full sm:max-w-sm">
+      <form id="forgotPasswordForm" class="space-y-6" action="#" method="POST">
+        <div>
+          <label for="email" class="block text-sm font-medium leading-6 text-gray-900">Email address</label>
+          <div class="mt-2">
+            <input id="forgotPasswordEmail" name="email" type="email" autocomplete="email" required class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6">
+          </div>
+        </div>
+
+        <div>
+          <button type="submit" class="flex w-full justify-center rounded-md bg-indigo-600 px-3 py-1.5 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Send Reset Link</button>
+        </div>
+        <div id="errorMessage" class="mt-4"></div>
+      </form>
+
+      <p class="mt-10 text-center text-sm text-gray-500">
+        Remembered your password?
+        <a href="../login/index.html" class="font-semibold leading-6 text-indigo-600 hover:text-indigo-500">Sign in</a>
+      </p>
+    </div>
+  </div>
+
+  <script>
+    document.getElementById('forgotPasswordForm').addEventListener('submit', async function(event) {
+        event.preventDefault();
+        const email = document.getElementById('forgotPasswordEmail').value;
+        const errorMessageElement = document.getElementById('errorMessage');
+        errorMessageElement.textContent = '';  // Önceki hata mesajlarını temizle
+        errorMessageElement.classList.remove('bg-red-100', 'border', 'border-red-400', 'text-red-700', 'px-4', 'py-3', 'rounded', 'relative');
+
+        try {
+            const data = await sendResetLink(email);
+            console.log('Reset link sent', data);
+            alert('Reset link sent! Check your email.');
+        } catch (error) {
+            console.error('Failed to send reset link', error);
+            if (error.message) {
+                errorMessageElement.textContent = error.message;
+            } else {
+                errorMessageElement.textContent = 'Failed to send reset link!';
+            }
+            errorMessageElement.classList.add('bg-red-100', 'border', 'border-red-400', 'text-red-700', 'px-4', 'py-3', 'rounded', 'relative');
+        }
+    });
+
+    async function sendResetLink(email) {
+        const apiUrl = 'http://localhost/leanphp';  // API URL'nizi buraya ekleyin
+        const requestData = { email };  // JSON verisi oluştur
+        console.log('Sending request:', requestData);  // Gönderilen veriyi logla
+        try {
+            const response = await fetch(`${apiUrl}/sendMailForForgotPassword`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(requestData)
+            });
+
+            const text = await response.text();  // Yanıtı metin olarak al
+            console.log('Response text:', text);  // Yanıtı logla
+
+            if (!response.ok) {
+                let errorMessage = 'Failed to parse error response from server';
+                try {
+                    const jsonParts = text.split('}{').map((part, index, arr) => {
+                        if (index === 0) return part + '}';
+                        if (index === arr.length - 1) return '{' + part;
+                        return '{' + part + '}';
+                    });
+                    const errorData = jsonParts.map((jsonString) => JSON.parse(jsonString)).pop();
+                    errorMessage = errorData.message || errorMessage;
+                    console.error('Error response from server:', errorData);  // Hata mesajını logla
+                } catch (jsonError) {
+                    console.error('Failed to parse JSON parts', jsonError);
+                }
+                throw new Error(errorMessage);
+            }
+
+            try {
+                const data = JSON.parse(text);  // Yanıtı JSON olarak parse et
+                alert('Response: ' + JSON.stringify(data));
+                return data;
+            } catch (jsonError) {
+                console.error('Failed to parse JSON response', jsonError);
+                throw new Error('Failed to parse JSON response');
+            }
+        } catch (error) {
+            console.error('Failed to send reset link', error);
+            throw error;
+        }
+    }
+  </script>
+</body>
+</html>

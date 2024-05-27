@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard</title>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+  <div class="container mx-auto p-4">
+    <div class="flex justify-between items-center mb-4">
+      <h1 class="text-2xl font-bold">Dashboard</h1>
+      <div>
+        <button id="logoutButton" class="bg-red-600 text-white px-4 py-2 rounded">Logout</button>
+        <a href="../profile/index.html" class="ml-4 bg-blue-600 text-white px-4 py-2 rounded">Profile</a>
+      </div>
+    </div>
+    <h2 class="text-xl font-semibold mb-2">User List</h2>
+    <div id="userList" class="bg-white shadow-md rounded p-4">
+      <!-- Kullanıcı listesi burada görüntülenecek -->
+    </div>
+  </div>
+
+  <script>
+    document.getElementById('logoutButton').addEventListener('click', function() {
+        sessionStorage.removeItem('token');
+        window.location.href = '../login/index.html'; // Çıkış yapıldığında login sayfasına yönlendir
+    });
+
+    document.addEventListener('DOMContentLoaded', function() {
+        fetchUsers();
+    });
+
+    async function fetchUsers() {
+        const token = sessionStorage.getItem('token');
+        if (!token) {
+            console.error('No token found');
+            window.location.href = '../login/index.html';
+            return;
+        }
+
+        const apiUrl = 'http://localhost/leanphp';  // API URL'nizi buraya ekleyin
+        try {
+            const response = await fetch(`${apiUrl}/api/users`, {
+                method: 'GET',
+                headers: {
+                    'Authorization': `Bearer ${token}`
+                }
+            });
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            const result = await response.json();
+            console.log('Users fetched successfully', result);
+            displayUsers(result.data);  // Veriyi 'data' anahtarından alın ve displayUsers fonksiyonuna gönderin
+        } catch (error) {
+            console.error('Failed to fetch users', error);
+            alert('Failed to fetch users');
+        }
+    }
+
+    function displayUsers(users) {
+        console.log('log from displayUsers', users); // Veriyi loglayın
+        const userList = document.getElementById('userList');
+        userList.innerHTML = '';
+        users.forEach(user => {
+            const userItem = document.createElement('div');
+            userItem.className = 'mb-2';
+            userItem.textContent = `Username: ${user.firstname} ${user.lastname}, Email: ${user.email}`;
+            userList.appendChild(userItem);
+        });
+    }
+  </script>
+</body>
+</html>

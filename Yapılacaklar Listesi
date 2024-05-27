@@ -1,0 +1,38 @@
+leanphp/
+├── .src/
+│   ├── core/
+│   │   ├── Application.php
+│   │   ├── Autoloader.php
+│   │   ├── DBDriver.php
+│   │   ├── ErrorHandler.php
+│   │   ├── JwtHelper.php
+│   │   ├── Logger.php
+│   │   ├── Mailer.php
+│   │   ├── Request.php
+│   │   ├── Response.php
+│   │   └── Router.php
+├── app/
+│   ├── config/
+│   │   ├── application.properties
+│   │   ├── application-dev.properties
+│   │   ├── application-prod.properties
+│   │   └── application-test.properties
+│   ├── domain/
+│   │   └── User.php
+│   ├── repository/
+│   │   └── UserRepository.php
+│   ├── resource/
+│   │   └── HomeResource.php
+│   │   └── UserResource.php
+│   ├── service/
+│   │   └── UserService.php
+│   └── routes.php
+├── logs/
+├── public/
+│   └── index.php
+├── storage/
+├── tests/
+├── .gitignore
+├── .htaccess
+├── LICENSE
+└── README.md

@@ -1,0 +1,13 @@
+Merhaba,
+
+Şifrenizi sıfırlamak için aşağıdaki bağlantıya tıklayın:
+
+<a href="http://localhost/leanui/reset-password/index.html?token=YOUR_GENERATED_TOKEN">Şifre Sıfırla</a>
+
+Bu bağlantı, şifrenizi sıfırlamanız için gereklidir. Eğer bu isteği siz yapmadıysanız, bu e-postayı göz ardı edin.
+
+Teşekkürler,
+Your Company
+
+
+Örnek: http://localhost/leanui/reset-password/index.html?token=f5e83246729f052ef895b5c51b18706c93b0df14356cb5495567929503b8c4de7515e12411b1ebd44a75468dfa88da904ccd

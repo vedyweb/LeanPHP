@@ -1,0 +1,1131 @@
+
+[2024-05-16 14:37:33] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-16 14:37:33] Info: Connected to MySQL database at localhost
+[2024-05-16 14:37:38] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-16 14:37:38] Info: Connected to MySQL database at localhost
+[2024-05-16 14:37:42] Info: Trying to dispatch URI: /leanphp/api/user/11
+[2024-05-16 14:37:42] Info: Connected to MySQL database at localhost
+[2024-05-16 14:39:25] Info: Trying to dispatch URI: /leanphp/api/usesr/11
+[2024-05-16 18:32:39] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-16 18:33:20] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-16 18:33:56] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-16 18:34:12] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-16 18:34:12] Info: Connected to MySQL database at localhost
+[2024-05-16 18:34:17] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-16 18:34:17] Info: Connected to MySQL database at localhost
+[2024-05-16 19:25:03] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-16 19:25:03] Info: Connected to MySQL database at localhost
+[2024-05-16 19:25:25] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-16 19:25:25] Info: Connected to MySQL database at localhost
+[2024-05-16 19:26:01] Info: Trying to dispatch URI: /leanphp/secret
+[2024-05-16 19:26:07] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-16 19:26:07] Info: Connected to MySQL database at localhost
+[2024-05-16 19:26:10] Info: Trying to dispatch URI: /leanphp/api/user/3
+[2024-05-16 19:26:10] Info: Connected to MySQL database at localhost
+[2024-05-16 19:26:30] Info: Trying to dispatch URI: /leanphp/x
+[2024-05-16 19:26:39] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-16 19:29:52] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-16 19:35:13] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-17 20:13:52] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 20:13:52] Info: Connected to MySQL database at localhost
+[2024-05-17 20:41:58] Info: Connected to MySQL database at localhost
+[2024-05-17 20:43:53] Info: Connected to MySQL database at localhost
+[2024-05-17 20:46:44] Info: Trying to dispatch URI: /leanphp/
+[2024-05-17 20:46:49] Info: Trying to dispatch URI: /leanphp/users
+[2024-05-17 20:46:49] Info: Connected to MySQL database at localhost
+[2024-05-17 20:48:10] Info: Trying to dispatch URI: /leanphp/users
+[2024-05-17 20:48:10] Info: Connected to MySQL database at localhost
+[2024-05-17 20:49:46] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 20:49:46] Info: Connected to MySQL database at localhost
+[2024-05-17 21:03:45] Info: Trying to dispatch URI: /leanphp/users
+[2024-05-17 21:03:45] Info: Connected to MySQL database at localhost
+[2024-05-17 21:04:43] Info: Trying to dispatch URI: /leanphp/users
+[2024-05-17 21:04:43] Info: Connected to MySQL database at localhost
+[2024-05-17 21:04:56] Info: Trying to dispatch URI: /leanphp/users
+[2024-05-17 21:04:56] Info: Connected to MySQL database at localhost
+[2024-05-17 21:06:58] Info: Trying to dispatch URI: /leanphp/users
+[2024-05-17 21:06:58] Info: Connected to MySQL database at localhost
+[2024-05-17 21:07:11] Info: Trying to dispatch URI: /leanphp/user/1
+[2024-05-17 21:07:11] Info: Connected to MySQL database at localhost
+[2024-05-17 21:10:16] Info: Trying to dispatch URI: /leanphp/user/1
+[2024-05-17 21:10:17] Info: Connected to MySQL database at localhost
+[2024-05-17 21:10:20] Info: Trying to dispatch URI: /leanphp/users
+[2024-05-17 21:10:20] Info: Connected to MySQL database at localhost
+[2024-05-17 21:38:17] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 21:38:17] Info: Connected to MySQL database at localhost
+[2024-05-17 21:38:27] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 21:38:27] Info: Connected to MySQL database at localhost
+[2024-05-17 21:38:44] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 21:38:44] Info: Connected to MySQL database at localhost
+[2024-05-17 21:41:55] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 21:41:56] Info: Connected to MySQL database at localhost
+[2024-05-17 21:42:37] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 21:42:37] Info: Connected to MySQL database at localhost
+[2024-05-17 21:45:26] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 21:45:26] Info: Connected to MySQL database at localhost
+[2024-05-17 21:46:30] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 21:46:30] Info: Connected to MySQL database at localhost
+[2024-05-17 21:55:32] Info: Trying to dispatch URI: /leanphp/users
+[2024-05-17 21:56:13] Info: Trying to dispatch URI: /leanphp/users
+[2024-05-17 21:56:13] Info: Connected to MySQL database at localhost
+[2024-05-17 21:56:48] Info: Trying to dispatch URI: /leanphp/user/1
+[2024-05-17 21:56:48] Info: Connected to MySQL database at localhost
+[2024-05-17 21:58:11] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 21:58:11] Info: Connected to MySQL database at localhost
+[2024-05-17 21:58:58] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 21:58:58] Info: Connected to MySQL database at localhost
+[2024-05-17 21:59:05] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-17 21:59:05] Info: Connected to MySQL database at localhost
+[2024-05-17 21:59:34] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-17 21:59:34] Info: Connected to MySQL database at localhost
+[2024-05-17 21:59:40] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 21:59:40] Info: Connected to MySQL database at localhost
+[2024-05-17 21:59:43] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-17 21:59:43] Info: Connected to MySQL database at localhost
+[2024-05-17 21:59:50] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 21:59:50] Info: Connected to MySQL database at localhost
+[2024-05-17 21:59:58] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 21:59:58] Info: Connected to MySQL database at localhost
+[2024-05-17 22:54:55] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-17 22:59:17] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-17 22:59:17] Info: Connected to MySQL database at localhost
+[2024-05-17 22:59:59] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-17 22:59:59] Info: Connected to MySQL database at localhost
+[2024-05-17 23:01:58] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-17 23:01:58] Info: Connected to MySQL database at localhost
+[2024-05-17 23:02:15] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-17 23:02:15] Info: Connected to MySQL database at localhost
+[2024-05-17 23:02:29] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-17 23:02:29] Info: Connected to MySQL database at localhost
+[2024-05-17 23:03:42] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-17 23:04:35] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-17 23:04:42] Info: Trying to dispatch URI: /leanphp/secret
+[2024-05-17 23:04:47] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 23:05:09] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 23:08:49] Info: Trying to dispatch URI: /leanphp/api/user/3
+[2024-05-17 23:08:49] Info: Connected to MySQL database at localhost
+[2024-05-17 23:09:32] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 23:09:32] Info: Connected to MySQL database at localhost
+[2024-05-17 23:09:33] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 23:09:33] Info: Connected to MySQL database at localhost
+[2024-05-17 23:10:18] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 23:10:18] Info: Connected to MySQL database at localhost
+[2024-05-17 23:10:47] Info: Trying to dispatch URI: /leanphp/api/user/3
+[2024-05-17 23:10:47] Info: Connected to MySQL database at localhost
+[2024-05-17 23:11:52] Info: Trying to dispatch URI: /leanphp/api/user/3
+[2024-05-17 23:11:52] Info: Connected to MySQL database at localhost
+[2024-05-17 23:11:56] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 23:11:56] Info: Connected to MySQL database at localhost
+[2024-05-17 23:16:28] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-17 23:16:28] Info: Connected to MySQL database at localhost
+[2024-05-17 23:16:43] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-17 23:16:43] Info: Connected to MySQL database at localhost
+[2024-05-17 23:16:49] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-17 23:16:49] Info: Connected to MySQL database at localhost
+[2024-05-17 23:17:26] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-17 23:17:29] Info: Trying to dispatch URI: /leanphp/secret
+[2024-05-17 23:17:32] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 23:17:32] Info: Connected to MySQL database at localhost
+[2024-05-17 23:23:57] Info: Trying to dispatch URI: /leanphp/secret
+[2024-05-17 23:24:05] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-17 23:24:05] Info: Connected to MySQL database at localhost
+[2024-05-17 23:24:10] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-17 23:24:10] Info: Connected to MySQL database at localhost
+[2024-05-17 23:24:28] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-17 23:24:28] Info: Connected to MySQL database at localhost
+[2024-05-17 23:24:31] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-17 23:24:31] Info: Connected to MySQL database at localhost
+[2024-05-17 23:24:56] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-17 23:24:58] Info: Trying to dispatch URI: /leanphp/secret
+[2024-05-17 23:25:03] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 23:25:03] Info: Connected to MySQL database at localhost
+[2024-05-17 23:25:21] Info: Trying to dispatch URI: /leanphp/api/user/3
+[2024-05-17 23:25:21] Info: Connected to MySQL database at localhost
+[2024-05-17 23:25:24] Info: Trying to dispatch URI: /leanphp/newpassword
+[2024-05-17 23:25:24] Info: Connected to MySQL database at localhost
+[2024-05-17 23:25:54] Info: Trying to dispatch URI: /leanphp/newpassword
+[2024-05-17 23:25:54] Info: Connected to MySQL database at localhost
+[2024-05-17 23:27:05] Info: Trying to dispatch URI: /leanphp/newpassword
+[2024-05-17 23:27:05] Info: Connected to MySQL database at localhost
+[2024-05-17 23:27:07] Info: Trying to dispatch URI: /leanphp/newpassword
+[2024-05-17 23:27:07] Info: Connected to MySQL database at localhost
+[2024-05-17 23:31:27] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-17 23:31:27] Info: Connected to MySQL database at localhost
+[2024-05-17 23:31:29] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-17 23:31:29] Info: Connected to MySQL database at localhost
+[2024-05-17 23:35:45] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-17 23:35:45] Info: Connected to MySQL database at localhost
+[2024-05-17 23:35:47] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-17 23:35:47] Info: Connected to MySQL database at localhost
+[2024-05-17 23:36:55] Info: Trying to dispatch URI: /leanphp/resetPassword/resetPassword/5c65cac541d97bd10cf686ba3d1a345ab11de18c0180a10ef2f7bb6a53b32bfee4b6401ccb784f31736d6e11ad2eaab84cb7
+[2024-05-17 23:37:10] Info: Trying to dispatch URI: /leanphp/resetPassword/5c65cac541d97bd10cf686ba3d1a345ab11de18c0180a10ef2f7bb6a53b32bfee4b6401ccb784f31736d6e11ad2eaab84cb7
+[2024-05-17 23:37:10] Info: Connected to MySQL database at localhost
+[2024-05-17 23:37:24] Info: Trying to dispatch URI: /leanphp/resetPassword/5c65cac541d97bd10cf686ba3d1a345ab11de18c0180a10ef2f7bb6a53b32bfee4b6401ccb784f31736d6e11ad2eaab84cb7
+[2024-05-17 23:37:24] Info: Connected to MySQL database at localhost
+[2024-05-17 23:53:22] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-17 23:54:36] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-17 23:54:37] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-17 23:54:38] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-17 23:54:38] Info: Connected to MySQL database at localhost
+[2024-05-17 23:54:43] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 23:54:43] Info: Connected to MySQL database at localhost
+[2024-05-17 23:55:32] Info: Trying to dispatch URI: /leanphp/user/1
+[2024-05-17 23:55:40] Info: Trying to dispatch URI: /leanphp/user/s
+[2024-05-17 23:55:47] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 23:55:47] Info: Connected to MySQL database at localhost
+[2024-05-17 23:55:49] Info: Trying to dispatch URI: /leanphp/api/user/3
+[2024-05-17 23:55:49] Info: Connected to MySQL database at localhost
+[2024-05-17 23:56:12] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 23:56:12] Info: Connected to MySQL database at localhost
+[2024-05-17 23:56:22] Info: Trying to dispatch URI: /leanphp/
+[2024-05-17 23:56:26] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-17 23:56:26] Info: Connected to MySQL database at localhost
+[2024-05-17 23:56:33] Info: Trying to dispatch URI: /leanphp/api/user/secret
+[2024-05-17 23:56:33] Info: Connected to MySQL database at localhost
+[2024-05-17 23:56:40] Info: Trying to dispatch URI: /leanphp/api/secret
+[2024-05-17 23:56:47] Info: Trying to dispatch URI: /leanphp/secret
+[2024-05-17 23:56:52] Info: Trying to dispatch URI: /leanphp/users
+[2024-05-17 23:56:58] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-17 23:56:58] Info: Connected to MySQL database at localhost
+[2024-05-18 00:19:43] Info: Trying to dispatch URI: /leanphp/secret
+[2024-05-18 00:19:46] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-18 00:19:49] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-18 00:19:49] Info: Connected to MySQL database at localhost
+[2024-05-18 00:19:53] Info: Trying to dispatch URI: /leanphp/api/user/3
+[2024-05-18 00:19:53] Info: Connected to MySQL database at localhost
+[2024-05-18 00:19:55] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 00:19:55] Info: Connected to MySQL database at localhost
+[2024-05-18 00:20:51] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 00:20:51] Info: Connected to MySQL database at localhost
+[2024-05-18 00:20:53] Info: Trying to dispatch URI: /leanphp/api/user/3
+[2024-05-18 00:20:53] Info: Connected to MySQL database at localhost
+[2024-05-18 00:21:22] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 00:21:22] Info: Connected to MySQL database at localhost
+[2024-05-18 00:21:25] Info: Trying to dispatch URI: /leanphp/api/user/3
+[2024-05-18 00:21:25] Info: Connected to MySQL database at localhost
+[2024-05-18 00:24:28] Info: Trying to dispatch URI: /leanphp/api/user/3
+[2024-05-18 00:24:28] Info: Connected to MySQL database at localhost
+[2024-05-18 00:24:31] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 00:24:31] Info: Connected to MySQL database at localhost
+[2024-05-18 00:25:29] Info: Trying to dispatch URI: /leanphp/api/user/3
+[2024-05-18 00:25:29] Info: Connected to MySQL database at localhost
+[2024-05-18 00:25:31] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-18 00:25:31] Info: Connected to MySQL database at localhost
+[2024-05-18 00:25:33] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-18 00:25:33] Info: Connected to MySQL database at localhost
+[2024-05-18 00:25:39] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 00:25:39] Info: Connected to MySQL database at localhost
+[2024-05-18 00:25:42] Info: Trying to dispatch URI: /leanphp/secret
+[2024-05-18 00:25:45] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-18 00:25:45] Info: Connected to MySQL database at localhost
+[2024-05-18 00:26:06] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-18 00:26:06] Info: Connected to MySQL database at localhost
+[2024-05-18 00:33:03] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-18 00:33:03] Info: Connected to MySQL database at localhost
+[2024-05-18 00:33:08] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-18 00:33:11] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-18 00:33:12] Info: Connected to MySQL database at localhost
+[2024-05-18 00:33:29] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 00:33:29] Info: Connected to MySQL database at localhost
+[2024-05-18 00:33:31] Info: Trying to dispatch URI: /leanphp/api/user/3
+[2024-05-18 00:33:31] Info: Connected to MySQL database at localhost
+[2024-05-18 00:38:50] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 00:38:50] Info: Connected to MySQL database at localhost
+[2024-05-18 00:38:57] Info: Trying to dispatch URI: /leanphp/api/user/11
+[2024-05-18 00:38:57] Info: Connected to MySQL database at localhost
+[2024-05-18 00:38:59] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-18 00:38:59] Info: Connected to MySQL database at localhost
+[2024-05-18 22:15:12] Info: Trying to dispatch URI: /leanphp/
+[2024-05-18 22:15:17] Info: Trying to dispatch URI: /leanphp/users
+[2024-05-18 22:15:22] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-18 22:15:22] Info: Connected to MySQL database at localhost
+[2024-05-18 22:15:24] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 22:15:24] Info: Connected to MySQL database at localhost
+[2024-05-18 22:28:29] Info: Trying to dispatch URI: /leanphp/
+[2024-05-18 22:33:56] Info: Trying to dispatch URI: /leanphp/
+[2024-05-18 22:35:48] Info: Trying to dispatch URI: /leanphp/
+[2024-05-18 22:36:34] Info: Trying to dispatch URI: /leanphp/
+[2024-05-18 22:44:04] Info: Trying to dispatch URI: /leanphp/
+[2024-05-18 22:44:08] Info: Trying to dispatch URI: /leanphp/users
+[2024-05-18 22:44:10] Info: Trying to dispatch URI: /leanphp/users
+[2024-05-18 22:44:13] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-18 22:44:23] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 23:08:54] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 23:13:55] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 23:20:15] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 23:23:36] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 23:23:37] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 23:23:44] Info: Trying to dispatch URI: /leanphp/
+[2024-05-18 23:23:49] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-18 23:25:25] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-18 23:25:26] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-18 23:25:28] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 23:25:29] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 23:25:53] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 23:28:53] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 23:28:54] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 23:28:54] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 23:30:00] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 23:30:01] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 23:30:36] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 23:30:36] Info: Connected to MySQL database at localhost
+[2024-05-18 23:34:04] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 23:34:04] Info: Connected to MySQL database at localhost
+[2024-05-18 23:39:27] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 23:39:56] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 23:39:56] Info: Connected to MySQL database at localhost
+[2024-05-18 23:50:26] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-18 23:50:26] Info: Connected to MySQL database at localhost
+[2024-05-18 23:50:32] Info: Trying to dispatch URI: /leanphp/api/user/11
+[2024-05-18 23:50:32] Info: Connected to MySQL database at localhost
+[2024-05-18 23:50:36] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-18 23:50:36] Info: Connected to MySQL database at localhost
+[2024-05-18 23:50:40] Info: Trying to dispatch URI: /leanphp/
+[2024-05-18 23:51:17] Info: Trying to dispatch URI: /leanphp/
+[2024-05-19 00:06:22] Info: Trying to dispatch URI: /leanphp/
+[2024-05-19 00:08:28] Info: Trying to dispatch URI: /leanphp/
+[2024-05-19 00:08:29] Info: Trying to dispatch URI: /leanphp/
+[2024-05-19 00:09:23] Info: Trying to dispatch URI: /leanphp/
+[2024-05-19 00:09:23] Info: Trying to dispatch URI: /leanphp/
+[2024-05-19 00:10:06] Info: Trying to dispatch URI: /leanphp/
+[2024-05-19 00:10:06] Info: Trying to dispatch URI: /leanphp/
+[2024-05-19 00:10:49] Info: Trying to dispatch URI: /leanphp/
+[2024-05-19 00:13:12] Info: Trying to dispatch URI: /leanphp/
+[2024-05-19 00:17:09] Info: Trying to dispatch URI: /leanphp/
+[2024-05-19 00:18:18] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-19 00:18:18] Info: Connected to MySQL database at localhost
+[2024-05-19 00:18:23] Info: Trying to dispatch URI: /leanphp/api/user/11
+[2024-05-19 00:18:23] Info: Connected to MySQL database at localhost
+[2024-05-19 00:18:26] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-19 00:18:26] Info: Connected to MySQL database at localhost
+[2024-05-19 00:25:51] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-19 00:25:51] Info: Connected to MySQL database at localhost
+[2024-05-19 00:25:53] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-19 00:25:53] Info: Connected to MySQL database at localhost
+[2024-05-19 14:55:30] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-19 14:55:30] Info: Connected to MySQL database at localhost
+[2024-05-19 15:07:14] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-19 15:07:14] Info: Connected to MySQL database at localhost
+[2024-05-19 15:10:12] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-19 15:10:12] Info: Connected to MySQL database at localhost
+[2024-05-19 15:10:19] Info: Trying to dispatch URI: /leanphp/api/user/11
+[2024-05-19 15:10:19] Info: Connected to MySQL database at localhost
+[2024-05-19 15:10:22] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-19 15:10:22] Info: Connected to MySQL database at localhost
+[2024-05-19 15:23:30] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-19 15:23:30] Info: Connected to MySQL database at localhost
+[2024-05-19 15:23:34] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-19 15:23:34] Info: Connected to MySQL database at localhost
+[2024-05-19 15:26:31] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-19 15:26:31] Info: Connected to MySQL database at localhost
+[2024-05-19 15:40:07] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-19 15:40:07] Info: Connected to MySQL database at localhost
+[2024-05-19 15:40:08] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-19 15:40:08] Info: Connected to MySQL database at localhost
+[2024-05-19 15:54:42] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-19 15:54:42] Info: Connected to MySQL database at localhost
+[2024-05-19 15:54:45] Info: Trying to dispatch URI: /leanphp/api/user/11
+[2024-05-19 15:54:45] Info: Connected to MySQL database at localhost
+[2024-05-19 15:54:48] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-19 15:54:48] Info: Connected to MySQL database at localhost
+[2024-05-19 15:54:55] Info: Trying to dispatch URI: /leanphp/secret
+[2024-05-19 15:56:40] Info: Trying to dispatch URI: /leanphp/secret
+[2024-05-19 16:02:26] Info: Trying to dispatch URI: /leanphp/secret
+[2024-05-19 16:04:04] Info: Trying to dispatch URI: /leanphp/secret
+[2024-05-19 16:12:55] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-19 16:12:55] Info: Connected to MySQL database at localhost
+[2024-05-19 16:12:59] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-19 16:12:59] Info: Connected to MySQL database at localhost
+[2024-05-19 16:21:21] Info: Trying to dispatch URI: /leanphp/
+[2024-05-19 16:22:49] Info: Trying to dispatch URI: /leanphp/
+[2024-05-19 16:22:49] Info: Trying to dispatch URI: /leanphp/
+[2024-05-19 16:22:53] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-19 16:22:53] Info: Connected to MySQL database at localhost
+[2024-05-19 16:27:00] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-19 16:27:00] Info: Connected to MySQL database at localhost
+[2024-05-19 23:28:04] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-19 23:28:51] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-19 23:28:51] Info: Connected to MySQL database at localhost
+[2024-05-19 23:28:55] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-19 23:28:55] Info: Connected to MySQL database at localhost
+[2024-05-19 23:35:56] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-19 23:35:56] Info: Connected to MySQL database at localhost
+[2024-05-19 23:38:02] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-19 23:38:02] Info: Connected to MySQL database at localhost
+[2024-05-19 23:38:07] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-19 23:38:07] Info: Connected to MySQL database at localhost
+[2024-05-19 23:39:10] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-19 23:39:10] Info: Connected to MySQL database at localhost
+[2024-05-19 23:39:13] Info: Trying to dispatch URI: /leanphp/
+[2024-05-19 23:50:16] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-19 23:50:16] Info: Connected to MySQL database at localhost
+[2024-05-19 23:50:19] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-19 23:50:21] Info: Trying to dispatch URI: /leanphp/secret
+[2024-05-19 23:50:23] Info: Trying to dispatch URI: /leanphp/install
+[2024-05-19 23:50:25] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-19 23:50:25] Info: Connected to MySQL database at localhost
+[2024-05-19 23:50:27] Info: Trying to dispatch URI: /leanphp/api/user/3
+[2024-05-19 23:50:27] Info: Connected to MySQL database at localhost
+[2024-05-19 23:50:29] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-19 23:50:29] Info: Connected to MySQL database at localhost
+[2024-05-19 23:50:36] Info: Trying to dispatch URI: /leanphp/resetPassword/5c65cac541d97bd10cf686ba3d1a345ab11de18c0180a10ef2f7bb6a53b32bfee4b6401ccb784f31736d6e11ad2eaab84cb7
+[2024-05-19 23:50:36] Info: Connected to MySQL database at localhost
+[2024-05-20 08:02:09] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 08:02:09] Info: Connected to MySQL database at localhost
+[2024-05-20 08:02:11] Info: Trying to dispatch URI: /leanphp/
+[2024-05-20 08:03:05] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 08:03:05] Info: Connected to MySQL database at localhost
+[2024-05-20 08:03:14] Info: Trying to dispatch URI: /leanphp/login.html
+[2024-05-20 08:03:22] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 08:03:22] Info: Connected to MySQL database at localhost
+[2024-05-20 08:18:39] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 08:18:39] Info: Connected to MySQL database at localhost
+[2024-05-20 08:24:50] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 08:24:50] Info: Connected to MySQL database at localhost
+[2024-05-20 08:25:07] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 08:25:07] Info: Connected to MySQL database at localhost
+[2024-05-20 08:25:17] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 08:25:17] Info: Connected to MySQL database at localhost
+[2024-05-20 08:32:35] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 08:32:35] Info: Connected to MySQL database at localhost
+[2024-05-20 08:38:49] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-20 08:38:49] Info: Connected to MySQL database at localhost
+[2024-05-20 08:39:14] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 08:39:14] Info: Connected to MySQL database at localhost
+[2024-05-20 08:39:24] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-20 08:39:24] Info: Connected to MySQL database at localhost
+[2024-05-20 08:39:27] Info: Trying to dispatch URI: /leanphp/users
+[2024-05-20 08:39:58] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-20 08:39:58] Info: Connected to MySQL database at localhost
+[2024-05-20 08:39:59] Info: Trying to dispatch URI: /leanphp/users
+[2024-05-20 08:40:37] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-20 08:40:37] Info: Connected to MySQL database at localhost
+[2024-05-20 08:40:39] Info: Trying to dispatch URI: /leanphp/users
+[2024-05-20 08:42:16] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 08:42:16] Info: Connected to MySQL database at localhost
+[2024-05-20 08:42:32] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-20 08:42:32] Info: Connected to MySQL database at localhost
+[2024-05-20 08:42:33] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 08:42:33] Info: Connected to MySQL database at localhost
+[2024-05-20 08:44:15] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-20 08:44:15] Info: Connected to MySQL database at localhost
+[2024-05-20 08:44:17] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 08:44:17] Info: Connected to MySQL database at localhost
+[2024-05-20 08:44:29] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 08:44:29] Info: Connected to MySQL database at localhost
+[2024-05-20 08:46:05] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 08:46:05] Info: Connected to MySQL database at localhost
+[2024-05-20 08:47:40] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 08:47:40] Info: Connected to MySQL database at localhost
+[2024-05-20 08:49:25] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-20 08:49:25] Info: Connected to MySQL database at localhost
+[2024-05-20 08:49:27] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 08:49:27] Info: Connected to MySQL database at localhost
+[2024-05-20 08:55:44] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-20 08:55:44] Info: Connected to MySQL database at localhost
+[2024-05-20 08:55:47] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 08:55:47] Info: Connected to MySQL database at localhost
+[2024-05-20 08:56:36] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 08:56:36] Info: Connected to MySQL database at localhost
+[2024-05-20 09:19:22] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 09:19:22] Info: Connected to MySQL database at localhost
+[2024-05-20 09:21:12] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 09:21:12] Info: Connected to MySQL database at localhost
+[2024-05-20 09:21:58] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 09:21:58] Info: Connected to MySQL database at localhost
+[2024-05-20 09:23:14] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 09:23:14] Info: Connected to MySQL database at localhost
+[2024-05-20 09:24:37] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 09:24:37] Info: Connected to MySQL database at localhost
+[2024-05-20 09:25:40] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 09:25:40] Info: Connected to MySQL database at localhost
+[2024-05-20 09:26:19] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 09:26:19] Info: Connected to MySQL database at localhost
+[2024-05-20 09:26:25] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 09:26:25] Info: Connected to MySQL database at localhost
+[2024-05-20 09:27:25] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 09:27:25] Info: Connected to MySQL database at localhost
+[2024-05-20 09:27:47] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 09:27:47] Info: Connected to MySQL database at localhost
+[2024-05-20 09:28:14] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 09:28:14] Info: Connected to MySQL database at localhost
+[2024-05-20 09:28:35] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 09:28:35] Info: Connected to MySQL database at localhost
+[2024-05-20 09:30:33] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 09:30:33] Info: Connected to MySQL database at localhost
+[2024-05-20 09:32:32] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 09:32:32] Info: Connected to MySQL database at localhost
+[2024-05-20 09:33:18] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 09:33:18] Info: Connected to MySQL database at localhost
+[2024-05-20 09:33:39] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-20 09:33:39] Info: Connected to MySQL database at localhost
+[2024-05-20 09:33:46] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-20 09:33:46] Info: Connected to MySQL database at localhost
+[2024-05-20 09:33:48] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 09:33:48] Info: Connected to MySQL database at localhost
+[2024-05-20 09:33:49] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 09:33:49] Info: Connected to MySQL database at localhost
+[2024-05-20 09:34:32] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 09:34:32] Info: Connected to MySQL database at localhost
+[2024-05-20 09:45:05] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-20 09:45:05] Info: Connected to MySQL database at localhost
+[2024-05-20 09:45:07] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 09:45:07] Info: Connected to MySQL database at localhost
+[2024-05-20 09:45:07] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 09:45:07] Info: Connected to MySQL database at localhost
+[2024-05-20 09:45:11] Info: Trying to dispatch URI: /leanphp/profile
+[2024-05-20 09:58:14] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 09:58:14] Info: Connected to MySQL database at localhost
+[2024-05-20 10:08:41] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 10:08:41] Info: Connected to MySQL database at localhost
+[2024-05-20 10:10:55] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 10:10:55] Info: Connected to MySQL database at localhost
+[2024-05-20 10:11:39] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 10:11:39] Info: Connected to MySQL database at localhost
+[2024-05-20 10:15:10] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 10:15:10] Info: Connected to MySQL database at localhost
+[2024-05-20 10:20:27] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 10:20:27] Info: Connected to MySQL database at localhost
+[2024-05-20 10:20:30] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 10:20:30] Info: Connected to MySQL database at localhost
+[2024-05-20 10:21:34] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 10:21:34] Info: Connected to MySQL database at localhost
+[2024-05-20 10:21:37] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 10:21:37] Info: Connected to MySQL database at localhost
+[2024-05-20 10:24:13] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 10:24:13] Info: Connected to MySQL database at localhost
+[2024-05-20 10:27:01] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 10:27:01] Info: Connected to MySQL database at localhost
+[2024-05-20 10:28:20] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 10:28:20] Info: Connected to MySQL database at localhost
+[2024-05-20 10:33:00] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 10:33:00] Info: Connected to MySQL database at localhost
+[2024-05-20 10:39:35] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 10:39:35] Info: Connected to MySQL database at localhost
+[2024-05-20 10:52:11] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 10:52:11] Info: Connected to MySQL database at localhost
+[2024-05-20 11:03:57] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:03:57] Info: Connected to MySQL database at localhost
+[2024-05-20 11:04:09] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:04:09] Info: Connected to MySQL database at localhost
+[2024-05-20 11:06:39] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:06:39] Info: Connected to MySQL database at localhost
+[2024-05-20 11:06:54] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:06:54] Info: Connected to MySQL database at localhost
+[2024-05-20 11:07:17] Info: Trying to dispatch URI: /leanphp/resetPassword/dd940843149949c1f1b11aeed0d24d1f10d91ccb05e9297fefd665db64bab34fc362b9c0265dccf7025ffbcb0d52ec62ab78'%3EReset
+[2024-05-20 11:13:04] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:13:04] Info: Connected to MySQL database at localhost
+[2024-05-20 11:17:48] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:17:48] Info: Connected to MySQL database at localhost
+[2024-05-20 11:20:00] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:20:00] Info: Connected to MySQL database at localhost
+[2024-05-20 11:21:50] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:21:50] Info: Connected to MySQL database at localhost
+[2024-05-20 11:22:20] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:22:20] Info: Connected to MySQL database at localhost
+[2024-05-20 11:24:04] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:24:04] Info: Connected to MySQL database at localhost
+[2024-05-20 11:25:42] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:25:42] Info: Connected to MySQL database at localhost
+[2024-05-20 11:26:26] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:26:26] Info: Connected to MySQL database at localhost
+[2024-05-20 11:26:52] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:26:52] Info: Connected to MySQL database at localhost
+[2024-05-20 11:27:19] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:27:19] Info: Connected to MySQL database at localhost
+[2024-05-20 11:34:37] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:34:37] Info: Connected to MySQL database at localhost
+[2024-05-20 11:36:18] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:36:18] Info: Connected to MySQL database at localhost
+[2024-05-20 11:37:09] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:37:09] Info: Connected to MySQL database at localhost
+[2024-05-20 11:38:52] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-20 11:38:53] Info: Connected to MySQL database at localhost
+[2024-05-20 11:38:58] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-20 11:38:58] Info: Connected to MySQL database at localhost
+[2024-05-20 11:39:27] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:39:27] Info: Connected to MySQL database at localhost
+[2024-05-20 11:39:33] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:39:33] Info: Connected to MySQL database at localhost
+[2024-05-20 11:40:34] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:40:34] Info: Connected to MySQL database at localhost
+[2024-05-20 11:41:00] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:41:00] Info: Connected to MySQL database at localhost
+[2024-05-20 11:57:25] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:57:25] Info: Connected to MySQL database at localhost
+[2024-05-20 11:57:32] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 11:57:32] Info: Connected to MySQL database at localhost
+[2024-05-20 12:05:30] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:05:30] Info: Connected to MySQL database at localhost
+[2024-05-20 12:05:50] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:05:50] Info: Connected to MySQL database at localhost
+[2024-05-20 12:06:59] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:06:59] Info: Connected to MySQL database at localhost
+[2024-05-20 12:09:24] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:09:24] Info: Connected to MySQL database at localhost
+[2024-05-20 12:09:32] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:09:32] Info: Connected to MySQL database at localhost
+[2024-05-20 12:09:53] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:09:53] Info: Connected to MySQL database at localhost
+[2024-05-20 12:11:34] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:11:34] Info: Connected to MySQL database at localhost
+[2024-05-20 12:11:52] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:11:52] Info: Connected to MySQL database at localhost
+[2024-05-20 12:16:27] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:16:27] Info: Connected to MySQL database at localhost
+[2024-05-20 12:16:35] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:16:35] Info: Connected to MySQL database at localhost
+[2024-05-20 12:18:00] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:18:00] Info: Connected to MySQL database at localhost
+[2024-05-20 12:19:19] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:19:19] Info: Connected to MySQL database at localhost
+[2024-05-20 12:19:25] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:19:25] Info: Connected to MySQL database at localhost
+[2024-05-20 12:23:39] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:23:39] Info: Connected to MySQL database at localhost
+[2024-05-20 12:23:49] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:23:49] Info: Connected to MySQL database at localhost
+[2024-05-20 12:34:56] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:34:56] Info: Connected to MySQL database at localhost
+[2024-05-20 12:35:03] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:35:03] Info: Connected to MySQL database at localhost
+[2024-05-20 12:38:18] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:38:18] Info: Connected to MySQL database at localhost
+[2024-05-20 12:38:59] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:38:59] Info: Connected to MySQL database at localhost
+[2024-05-20 12:44:32] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:44:32] Info: Connected to MySQL database at localhost
+[2024-05-20 12:44:37] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:44:37] Info: Connected to MySQL database at localhost
+[2024-05-20 12:48:16] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:48:16] Info: Connected to MySQL database at localhost
+[2024-05-20 12:48:28] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:48:28] Info: Connected to MySQL database at localhost
+[2024-05-20 12:50:03] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:50:03] Info: Connected to MySQL database at localhost
+[2024-05-20 12:50:09] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:50:09] Info: Connected to MySQL database at localhost
+[2024-05-20 12:50:35] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:50:35] Info: Connected to MySQL database at localhost
+[2024-05-20 12:50:38] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:50:38] Info: Connected to MySQL database at localhost
+[2024-05-20 12:50:39] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:50:39] Info: Connected to MySQL database at localhost
+[2024-05-20 12:56:38] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:56:38] Info: Connected to MySQL database at localhost
+[2024-05-20 12:57:40] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:57:40] Info: Connected to MySQL database at localhost
+[2024-05-20 12:57:49] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:57:49] Info: Connected to MySQL database at localhost
+[2024-05-20 12:58:58] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:58:58] Info: Connected to MySQL database at localhost
+[2024-05-20 12:59:06] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 12:59:06] Info: Connected to MySQL database at localhost
+[2024-05-20 13:02:29] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 13:02:29] Info: Connected to MySQL database at localhost
+[2024-05-20 13:02:38] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 13:02:38] Info: Connected to MySQL database at localhost
+[2024-05-20 13:02:43] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 13:02:43] Info: Connected to MySQL database at localhost
+[2024-05-20 13:15:08] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 13:15:08] Info: Connected to MySQL database at localhost
+[2024-05-20 13:16:49] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 13:16:49] Info: Connected to MySQL database at localhost
+[2024-05-20 13:19:00] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 13:19:00] Info: Connected to MySQL database at localhost
+[2024-05-20 13:19:08] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 13:19:08] Info: Connected to MySQL database at localhost
+[2024-05-20 13:22:04] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 13:22:04] Info: Connected to MySQL database at localhost
+[2024-05-20 13:22:11] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 13:22:11] Info: Connected to MySQL database at localhost
+[2024-05-20 13:22:48] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 13:22:48] Info: Connected to MySQL database at localhost
+[2024-05-20 13:22:53] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 13:22:53] Info: Connected to MySQL database at localhost
+[2024-05-20 13:33:43] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 13:33:43] Info: Connected to MySQL database at localhost
+[2024-05-20 13:33:50] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 13:33:50] Info: Connected to MySQL database at localhost
+[2024-05-20 13:34:28] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 13:34:28] Info: Connected to MySQL database at localhost
+[2024-05-20 13:34:32] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 13:34:32] Info: Connected to MySQL database at localhost
+[2024-05-20 13:56:10] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 13:56:10] Info: Connected to MySQL database at localhost
+[2024-05-20 13:57:26] Info: Trying to dispatch URI: /leanphp/resetPassword/5c65cac541d97bd10cf686ba3d1a345ab11de18c0180a10ef2f7bb6a53b32bfee4b6401ccb784f31736d6e11ad2eaab84cb7
+[2024-05-20 13:57:26] Info: Connected to MySQL database at localhost
+[2024-05-20 13:58:08] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-20 13:58:08] Info: Connected to MySQL database at localhost
+[2024-05-20 13:59:11] Info: Trying to dispatch URI: /leanphp/resetPassword/f5e83246729f052ef895b5c51b18706c93b0df14356cb5495567929503b8c4de7515e12411b1ebd44a75468dfa88da904ccd
+[2024-05-20 13:59:11] Info: Connected to MySQL database at localhost
+[2024-05-20 13:59:22] Info: Trying to dispatch URI: /leanphp/resetPassword/f5e83246729f052ef895b5c51b18706c93b0df14356cb5495567929503b8c4de7515e12411b1ebd44a75468dfa88da904ccd
+[2024-05-20 13:59:22] Info: Connected to MySQL database at localhost
+[2024-05-20 13:59:24] Info: Trying to dispatch URI: /leanphp/resetPassword/f5e83246729f052ef895b5c51b18706c93b0df14356cb5495567929503b8c4de7515e12411b1ebd44a75468dfa88da904ccd
+[2024-05-20 13:59:24] Info: Connected to MySQL database at localhost
+[2024-05-20 14:00:03] Info: Trying to dispatch URI: /leanphp/resetPassword/f5e83246729f052ef895b5c51b18706c93b0df14356cb5495567929503b8c4de7515e12411b1ebd44a75468dfa88da904ccd
+[2024-05-20 14:00:03] Info: Connected to MySQL database at localhost
+[2024-05-20 14:01:47] Info: Trying to dispatch URI: /leanphp/resetPassword/f5e83246729f052ef895b5c51b18706c93b0df14356cb5495567929503b8c4de7515e12411b1ebd44a75468dfa88da904ccd
+[2024-05-20 14:01:47] Info: Connected to MySQL database at localhost
+[2024-05-20 14:02:23] Info: Trying to dispatch URI: /leanphp/resetPassword/f5e83246729f052ef895b5c51b18706c93b0df14356cb5495567929503b8c4de7515e12411b1ebd44a75468dfa88da90
+[2024-05-20 14:02:23] Info: Connected to MySQL database at localhost
+[2024-05-20 14:02:46] Info: Trying to dispatch URI: /leanphp/resetPassword/f5e83246729f052ef895b5c51b18706c93b0df14356cb5495567929503b8c4de7515e12411b1ebd44a75fa88da904ccd
+[2024-05-20 14:02:46] Info: Connected to MySQL database at localhost
+[2024-05-20 14:13:58] Info: Trying to dispatch URI: /leanphp/resetPassword/f5e83246729f052ef895b5c51b18706c93b0df14356cb5495567929503b8c4de7515e12411b1ebd44a75fa88da904ccd
+[2024-05-20 14:13:58] Info: Connected to MySQL database at localhost
+[2024-05-20 14:14:13] Info: Trying to dispatch URI: /leanphp/resetPassword/f5e83246729f052ef895b5c51b18706c93b0df14356cb5495567929503b8c4de7515e12411b1ebd44a75468dfa88da90
+[2024-05-20 14:14:13] Info: Connected to MySQL database at localhost
+[2024-05-20 14:14:17] Info: Trying to dispatch URI: /leanphp/resetPassword/f5e83246729f052ef895b5c51b18706c93b0df14356cb5495567929503b8c4de7515e12411b1ebd44a75468dfa88da90
+[2024-05-20 14:14:17] Info: Connected to MySQL database at localhost
+[2024-05-20 14:14:28] Info: Trying to dispatch URI: /leanphp/resetPassword/f5e83246729f052ef895b5c51b18706c93b0df14356cb5495567929503b8c4de7515e124
+[2024-05-20 14:14:28] Info: Connected to MySQL database at localhost
+[2024-05-20 14:17:48] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-20 14:17:48] Info: Connected to MySQL database at localhost
+[2024-05-20 14:17:50] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 14:17:50] Info: Connected to MySQL database at localhost
+[2024-05-20 14:17:50] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-20 14:17:50] Info: Connected to MySQL database at localhost
+[2024-05-20 14:17:53] Info: Trying to dispatch URI: /leanphp/profile
+[2024-05-20 14:17:58] Info: Trying to dispatch URI: /leanphp/profile
+[2024-05-20 22:18:40] Info: Trying to dispatch URI: /leanphp/
+[2024-05-20 22:19:16] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-20 22:20:22] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-20 22:20:22] Info: Connected to MySQL database at localhost
+[2024-05-20 22:22:18] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-20 22:23:33] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-20 22:23:33] Info: Connected to MySQL database at localhost
+[2024-05-20 22:23:37] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-20 22:23:37] Info: Connected to MySQL database at localhost
+[2024-05-20 22:23:41] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-21 10:48:32] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 10:50:56] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 10:50:57] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 10:51:10] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 10:51:14] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-21 12:05:20] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 12:05:20] Info: Connected to MySQL database at localhost
+[2024-05-21 12:05:28] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 12:05:28] Info: Connected to MySQL database at localhost
+[2024-05-21 12:05:36] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 12:05:36] Info: Connected to MySQL database at localhost
+[2024-05-21 12:06:38] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 12:06:38] Info: Connected to MySQL database at localhost
+[2024-05-21 12:06:39] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 12:06:39] Info: Connected to MySQL database at localhost
+[2024-05-21 12:08:28] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 12:08:28] Info: Connected to MySQL database at localhost
+[2024-05-21 12:08:54] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 12:08:54] Info: Connected to MySQL database at localhost
+[2024-05-21 12:11:04] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 12:11:04] Info: Connected to MySQL database at localhost
+[2024-05-21 12:13:30] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 12:13:30] Info: Connected to MySQL database at localhost
+[2024-05-21 12:13:45] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 12:13:45] Info: Connected to MySQL database at localhost
+[2024-05-21 12:13:47] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 12:13:47] Info: Connected to MySQL database at localhost
+[2024-05-21 12:13:59] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 12:13:59] Info: Connected to MySQL database at localhost
+[2024-05-21 12:14:00] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 12:14:00] Info: Connected to MySQL database at localhost
+[2024-05-21 12:14:02] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 12:14:02] Info: Connected to MySQL database at localhost
+[2024-05-21 15:24:50] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 15:24:50] Info: Connected to MySQL database at localhost
+[2024-05-21 15:26:54] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 15:26:54] Info: Connected to MySQL database at localhost
+[2024-05-21 15:27:23] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 15:27:23] Info: Connected to MySQL database at localhost
+[2024-05-21 15:27:26] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 15:27:26] Info: Connected to MySQL database at localhost
+[2024-05-21 15:31:12] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 15:31:12] Info: Connected to MySQL database at localhost
+[2024-05-21 15:31:14] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 15:31:14] Info: Connected to MySQL database at localhost
+[2024-05-21 15:34:05] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 15:35:01] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 15:36:05] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 15:36:05] Info: Connected to MySQL database at localhost
+[2024-05-21 15:36:21] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 15:36:21] Info: Connected to MySQL database at localhost
+[2024-05-21 15:36:23] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 15:36:23] Info: Connected to MySQL database at localhost
+[2024-05-21 15:36:51] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 15:36:51] Info: Connected to MySQL database at localhost
+[2024-05-21 15:36:52] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 15:36:52] Info: Connected to MySQL database at localhost
+[2024-05-21 15:36:52] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 15:36:52] Info: Connected to MySQL database at localhost
+[2024-05-21 15:36:52] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 15:36:52] Info: Connected to MySQL database at localhost
+[2024-05-21 15:36:53] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 15:36:53] Info: Connected to MySQL database at localhost
+[2024-05-21 15:37:04] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-21 15:37:04] Info: Connected to MySQL database at localhost
+[2024-05-21 15:39:33] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 15:39:33] Info: Connected to MySQL database at localhost
+[2024-05-21 15:40:59] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 15:40:59] Info: Connected to MySQL database at localhost
+[2024-05-21 15:41:57] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 15:41:57] Info: Connected to MySQL database at localhost
+[2024-05-21 15:42:24] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 15:42:24] Info: Connected to MySQL database at localhost
+[2024-05-21 15:42:28] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 15:42:28] Info: Connected to MySQL database at localhost
+[2024-05-21 15:45:26] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 15:45:27] Info: Connected to MySQL database at localhost
+[2024-05-21 15:47:35] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 15:47:35] Info: Connected to MySQL database at localhost
+[2024-05-21 15:47:36] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 15:47:36] Info: Connected to MySQL database at localhost
+[2024-05-21 15:53:23] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 15:53:23] Info: Connected to MySQL database at localhost
+[2024-05-21 16:17:41] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:18:50] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:19:35] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:19:35] Info: Connected to MySQL database at localhost
+[2024-05-21 16:23:29] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:23:29] Info: Connected to MySQL database at localhost
+[2024-05-21 16:24:11] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:24:11] Info: Connected to MySQL database at localhost
+[2024-05-21 16:24:12] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:24:12] Info: Connected to MySQL database at localhost
+[2024-05-21 16:24:27] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 16:24:27] Info: Connected to MySQL database at localhost
+[2024-05-21 16:39:03] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 16:39:03] Info: Connected to MySQL database at localhost
+[2024-05-21 16:39:19] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 16:39:19] Info: Connected to MySQL database at localhost
+[2024-05-21 16:39:21] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 16:39:21] Info: Connected to MySQL database at localhost
+[2024-05-21 16:39:34] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 16:39:35] Info: Connected to MySQL database at localhost
+[2024-05-21 16:39:42] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-21 16:39:42] Info: Connected to MySQL database at localhost
+[2024-05-21 16:40:29] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:40:29] Info: Connected to MySQL database at localhost
+[2024-05-21 16:40:37] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:40:37] Info: Connected to MySQL database at localhost
+[2024-05-21 16:40:48] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:40:48] Info: Connected to MySQL database at localhost
+[2024-05-21 16:42:56] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:42:56] Info: Connected to MySQL database at localhost
+[2024-05-21 16:43:07] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:43:07] Info: Connected to MySQL database at localhost
+[2024-05-21 16:43:32] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:43:32] Info: Connected to MySQL database at localhost
+[2024-05-21 16:43:33] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:43:33] Info: Connected to MySQL database at localhost
+[2024-05-21 16:44:11] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:44:11] Info: Connected to MySQL database at localhost
+[2024-05-21 16:46:47] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:46:47] Info: Connected to MySQL database at localhost
+[2024-05-21 16:47:01] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:47:01] Info: Connected to MySQL database at localhost
+[2024-05-21 16:47:55] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:47:55] Info: Connected to MySQL database at localhost
+[2024-05-21 16:48:11] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:48:11] Info: Connected to MySQL database at localhost
+[2024-05-21 16:48:31] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:48:31] Info: Connected to MySQL database at localhost
+[2024-05-21 16:49:15] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:49:15] Info: Connected to MySQL database at localhost
+[2024-05-21 16:49:28] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:49:28] Info: Connected to MySQL database at localhost
+[2024-05-21 16:49:44] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:49:44] Info: Connected to MySQL database at localhost
+[2024-05-21 16:51:57] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:51:57] Info: Connected to MySQL database at localhost
+[2024-05-21 16:52:14] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:52:14] Info: Connected to MySQL database at localhost
+[2024-05-21 16:52:29] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:52:29] Info: Connected to MySQL database at localhost
+[2024-05-21 16:52:30] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:52:30] Info: Connected to MySQL database at localhost
+[2024-05-21 16:52:39] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:52:39] Info: Connected to MySQL database at localhost
+[2024-05-21 16:53:00] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:53:00] Info: Connected to MySQL database at localhost
+[2024-05-21 16:53:54] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:53:54] Info: Connected to MySQL database at localhost
+[2024-05-21 16:54:05] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:54:05] Info: Connected to MySQL database at localhost
+[2024-05-21 16:59:23] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 16:59:23] Info: Connected to MySQL database at localhost
+[2024-05-21 17:00:39] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:00:39] Info: Connected to MySQL database at localhost
+[2024-05-21 17:02:19] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:02:19] Info: Connected to MySQL database at localhost
+[2024-05-21 17:06:10] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:06:10] Info: Connected to MySQL database at localhost
+[2024-05-21 17:12:07] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:12:07] Info: Connected to MySQL database at localhost
+[2024-05-21 17:12:17] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 17:12:17] Info: Connected to MySQL database at localhost
+[2024-05-21 17:12:20] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:12:20] Info: Connected to MySQL database at localhost
+[2024-05-21 17:13:54] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:13:54] Info: Connected to MySQL database at localhost
+[2024-05-21 17:14:44] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:14:44] Info: Connected to MySQL database at localhost
+[2024-05-21 17:15:39] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:15:54] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:16:12] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:16:12] Info: Connected to MySQL database at localhost
+[2024-05-21 17:16:44] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:16:44] Info: Connected to MySQL database at localhost
+[2024-05-21 17:16:47] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:16:47] Info: Connected to MySQL database at localhost
+[2024-05-21 17:20:21] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:20:21] Info: Connected to MySQL database at localhost
+[2024-05-21 17:23:03] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:23:03] Info: Connected to MySQL database at localhost
+[2024-05-21 17:23:31] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:23:31] Info: Connected to MySQL database at localhost
+[2024-05-21 17:25:06] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:25:06] Info: Connected to MySQL database at localhost
+[2024-05-21 17:25:48] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:25:48] Info: Connected to MySQL database at localhost
+[2024-05-21 17:26:20] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:26:20] Info: Connected to MySQL database at localhost
+[2024-05-21 17:26:40] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:26:40] Info: Connected to MySQL database at localhost
+[2024-05-21 17:33:26] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:33:26] Info: Connected to MySQL database at localhost
+[2024-05-21 17:36:16] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:36:17] Info: Connected to MySQL database at localhost
+[2024-05-21 17:37:05] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 17:37:05] Info: Connected to MySQL database at localhost
+[2024-05-21 17:37:38] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 17:37:38] Info: Connected to MySQL database at localhost
+[2024-05-21 17:37:42] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:37:42] Info: Connected to MySQL database at localhost
+[2024-05-21 17:39:31] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:39:31] Info: Connected to MySQL database at localhost
+[2024-05-21 17:41:29] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:41:29] Info: Connected to MySQL database at localhost
+[2024-05-21 17:44:11] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:44:11] Info: Connected to MySQL database at localhost
+[2024-05-21 17:45:19] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:45:19] Info: Connected to MySQL database at localhost
+[2024-05-21 17:46:18] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:46:18] Info: Connected to MySQL database at localhost
+[2024-05-21 17:50:50] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 17:50:50] Info: Connected to MySQL database at localhost
+[2024-05-21 18:03:49] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 18:03:49] Info: Connected to MySQL database at localhost
+[2024-05-21 18:04:18] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 18:04:18] Info: Connected to MySQL database at localhost
+[2024-05-21 18:04:21] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 18:04:21] Info: Connected to MySQL database at localhost
+[2024-05-21 18:09:57] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 18:09:57] Info: Connected to MySQL database at localhost
+[2024-05-21 18:12:03] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 18:12:03] Info: Connected to MySQL database at localhost
+[2024-05-21 18:14:41] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 18:14:41] Info: Connected to MySQL database at localhost
+[2024-05-21 18:15:14] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 18:15:14] Info: Connected to MySQL database at localhost
+[2024-05-21 18:15:39] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 18:15:39] Info: Connected to MySQL database at localhost
+[2024-05-21 18:16:21] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 18:16:21] Info: Connected to MySQL database at localhost
+[2024-05-21 18:16:48] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 18:16:48] Info: Connected to MySQL database at localhost
+[2024-05-21 18:17:32] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 18:17:32] Info: Connected to MySQL database at localhost
+[2024-05-21 18:17:35] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 18:17:35] Info: Connected to MySQL database at localhost
+[2024-05-21 18:18:44] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 18:19:14] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 18:19:14] Info: Connected to MySQL database at localhost
+[2024-05-21 22:09:22] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-21 22:09:22] Info: Connected to MySQL database at localhost
+[2024-05-21 22:09:33] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 22:09:33] Info: Connected to MySQL database at localhost
+[2024-05-21 22:33:52] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 22:33:52] Info: Connected to MySQL database at localhost
+[2024-05-21 22:33:54] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 22:33:54] Info: Connected to MySQL database at localhost
+[2024-05-21 22:34:12] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 22:34:12] Info: Connected to MySQL database at localhost
+[2024-05-21 22:34:17] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 22:34:17] Info: Connected to MySQL database at localhost
+[2024-05-21 22:36:19] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 22:36:19] Info: Connected to MySQL database at localhost
+[2024-05-21 22:36:48] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 22:36:48] Info: Connected to MySQL database at localhost
+[2024-05-21 22:36:50] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 22:36:50] Info: Connected to MySQL database at localhost
+[2024-05-21 22:36:54] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-21 22:37:28] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 22:37:28] Info: Connected to MySQL database at localhost
+[2024-05-21 22:37:31] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 22:37:31] Info: Connected to MySQL database at localhost
+[2024-05-21 22:37:37] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-21 22:41:39] Info: Trying to dispatch URI: /leanphp/secret
+[2024-05-21 22:41:42] Info: Trying to dispatch URI: /leanphp/install
+[2024-05-21 22:41:45] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-21 22:41:45] Info: Connected to MySQL database at localhost
+[2024-05-21 22:42:05] Info: Trying to dispatch URI: /leanphp/api/user/3
+[2024-05-21 22:42:05] Info: Connected to MySQL database at localhost
+[2024-05-21 22:42:05] Info: Trying to dispatch URI: /leanphp/api/user/3
+[2024-05-21 22:42:06] Info: Connected to MySQL database at localhost
+[2024-05-21 22:42:06] Info: Trying to dispatch URI: /leanphp/api/user/3
+[2024-05-21 22:42:06] Info: Connected to MySQL database at localhost
+[2024-05-21 22:43:31] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-21 22:43:31] Info: Connected to MySQL database at localhost
+[2024-05-21 22:43:40] Info: Trying to dispatch URI: /leanphp/api/user/3
+[2024-05-21 22:43:40] Info: Connected to MySQL database at localhost
+[2024-05-21 22:43:48] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-21 22:43:48] Info: Connected to MySQL database at localhost
+[2024-05-21 22:43:49] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-21 22:43:49] Info: Connected to MySQL database at localhost
+[2024-05-21 22:44:49] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-21 22:44:49] Info: Connected to MySQL database at localhost
+[2024-05-21 22:45:04] Info: Trying to dispatch URI: /leanphp/resetPassword/f5e83246729f052ef895b5c51b18706c93b0df14356cb5495567929503b8c4de7515e12411b1ebd44a75fa88da904ccd
+[2024-05-21 22:45:04] Info: Connected to MySQL database at localhost
+[2024-05-21 22:45:16] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-21 22:45:16] Info: Connected to MySQL database at localhost
+[2024-05-21 22:56:18] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-21 22:56:18] Info: Connected to MySQL database at localhost
+[2024-05-21 22:57:11] Info: Trying to dispatch URI: /leanphp/resetPassword/92d1b313b3c117b0531d92dbf113906e9923d8cfdd40dd3527f4c943b78fb1bc7db12d120f731ecec4b52880cc780c84219b
+[2024-05-21 22:57:11] Info: Connected to MySQL database at localhost
+[2024-05-21 22:57:28] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-21 22:57:28] Info: Connected to MySQL database at localhost
+[2024-05-21 22:58:01] Info: Trying to dispatch URI: /leanphp/resetPassword/8e7301f3aa83dc74d9b9f818848437e34bc2961fd458f5946ec9b1dbec1456d68efeef0c512e14153bb6ebdc6f0c308471c0
+[2024-05-21 22:58:01] Info: Connected to MySQL database at localhost
+[2024-05-21 22:59:30] Info: Trying to dispatch URI: /leanphp/resetPassword/8e7301f3aa83dc74d9b9f818848437e34bc2961fd458f5946ec9b1dbec1456d68efeef0c512e14153bb6ebdc6f0c308471c0
+[2024-05-21 22:59:30] Info: Connected to MySQL database at localhost
+[2024-05-21 22:59:45] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-21 22:59:45] Info: Connected to MySQL database at localhost
+[2024-05-21 23:06:14] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-21 23:06:15] Info: Connected to MySQL database at localhost
+[2024-05-21 23:07:06] Info: Trying to dispatch URI: /leanphp/resetPassword/70cc906b2c87fcb06ac71ee35357d22895a7088181a890cae9458c987308637e57330d83d6651d88f89ff60b0d0fd2d43e81
+[2024-05-21 23:07:06] Info: Connected to MySQL database at localhost
+[2024-05-21 23:11:28] Info: Trying to dispatch URI: /leanphp/resetPassword/70cc906b2c87fcb06ac71ee35357d22895a7088181a890cae9458c987308637e57330d83d6651d88f89ff60b0d0fd2d43e81
+[2024-05-21 23:11:28] Info: Connected to MySQL database at localhost
+[2024-05-21 23:13:04] Info: Trying to dispatch URI: /leanphp/resetPassword/70cc906b2c87fcb06ac71ee35357d22895a7088181a890cae9458c987308637e57330d83d6651d88f89ff60b0d0fd2d43e81
+[2024-05-21 23:13:04] Info: Connected to MySQL database at localhost
+[2024-05-21 23:16:32] Info: Trying to dispatch URI: /leanphp/resetPassword/70cc906b2c87fcb06ac71ee35357d22895a7088181a890cae9458c987308637e57330d83d6651d88f89ff60b0d0fd2d43e81
+[2024-05-21 23:16:32] Info: Connected to MySQL database at localhost
+[2024-05-21 23:16:39] Info: Trying to dispatch URI: /leanphp/resetPassword/70cc906b2c87fcb06ac71ee35357d22895a7088181a890cae9458c987308637e57330d83d6651d88f89ff60b0d0fd2d43e81
+[2024-05-21 23:16:39] Info: Connected to MySQL database at localhost
+[2024-05-21 23:16:40] Info: Trying to dispatch URI: /leanphp/resetPassword/70cc906b2c87fcb06ac71ee35357d22895a7088181a890cae9458c987308637e57330d83d6651d88f89ff60b0d0fd2d43e81
+[2024-05-21 23:16:40] Info: Connected to MySQL database at localhost
+[2024-05-21 23:17:05] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-21 23:17:05] Info: Connected to MySQL database at localhost
+[2024-05-21 23:17:08] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 23:17:08] Info: Connected to MySQL database at localhost
+[2024-05-21 23:17:23] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 23:17:23] Info: Connected to MySQL database at localhost
+[2024-05-21 23:17:29] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 23:17:29] Info: Connected to MySQL database at localhost
+[2024-05-21 23:17:58] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 23:17:58] Info: Connected to MySQL database at localhost
+[2024-05-21 23:17:59] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 23:17:59] Info: Connected to MySQL database at localhost
+[2024-05-21 23:17:59] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 23:17:59] Info: Connected to MySQL database at localhost
+[2024-05-21 23:18:00] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 23:18:00] Info: Connected to MySQL database at localhost
+[2024-05-21 23:28:48] Info: Trying to dispatch URI: /leanphp/resetPassword/70cc906b2c87fcb06ac71ee35357d22895a7088181a890cae9458c987308637e57330d83d6651d88f89ff60b0d0fd2d43e81
+[2024-05-21 23:28:48] Info: Connected to MySQL database at localhost
+[2024-05-21 23:29:47] Info: Trying to dispatch URI: /leanphp/resetPassword/70cc906b2c87fcb06ac71ee35357d22895a7088181a890cae9458c987308637e57330d83d6651d88f89ff60b0d0fd2d43e81
+[2024-05-21 23:29:47] Info: Connected to MySQL database at localhost
+[2024-05-21 23:29:54] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 23:29:54] Info: Connected to MySQL database at localhost
+[2024-05-21 23:30:05] Info: Trying to dispatch URI: /leanphp/secret
+[2024-05-21 23:30:11] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-21 23:30:11] Info: Connected to MySQL database at localhost
+[2024-05-21 23:30:13] Info: Trying to dispatch URI: /leanphp/resetPassword/70cc906b2c87fcb06ac71ee35357d22895a7088181a890cae9458c987308637e57330d83d6651d88f89ff60b0d0fd2d43e81
+[2024-05-21 23:30:13] Info: Connected to MySQL database at localhost
+[2024-05-21 23:30:19] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-21 23:30:32] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 23:30:32] Info: Connected to MySQL database at localhost
+[2024-05-21 23:32:55] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 23:32:56] Info: Connected to MySQL database at localhost
+[2024-05-21 23:34:16] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-21 23:35:47] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-21 23:37:21] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-21 23:37:21] Info: Connected to MySQL database at localhost
+[2024-05-21 23:37:49] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-21 23:38:30] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-21 23:38:49] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-21 23:40:09] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-21 23:41:00] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-21 23:41:05] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-21 23:42:28] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-21 23:42:32] Info: Trying to dispatch URI: /leanphp/secret
+[2024-05-21 23:42:36] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-21 23:42:36] Info: Connected to MySQL database at localhost
+[2024-05-21 23:42:49] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-21 23:42:49] Info: Connected to MySQL database at localhost
+[2024-05-21 23:48:15] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-21 23:48:26] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-21 23:48:45] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-21 23:48:51] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-21 23:48:54] Info: Trying to dispatch URI: /leanphp/install
+[2024-05-21 23:48:57] Info: Trying to dispatch URI: /leanphp/secret
+[2024-05-21 23:48:59] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-21 23:50:15] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-21 23:50:21] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-21 23:51:06] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-21 23:51:34] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-21 23:51:38] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-21 23:53:57] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-21 23:54:20] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-21 23:54:49] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-21 23:54:49] Info: Connected to MySQL database at localhost
+[2024-05-21 23:55:35] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-21 23:57:58] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-21 23:58:03] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-22 00:01:00] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-22 00:01:00] Info: Connected to MySQL database at localhost
+[2024-05-22 00:02:46] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-22 00:02:46] Info: Connected to MySQL database at localhost
+[2024-05-22 00:02:50] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-22 00:02:50] Info: Connected to MySQL database at localhost
+[2024-05-22 00:03:10] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-22 00:03:43] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-22 00:04:10] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-22 00:04:10] Info: Connected to MySQL database at localhost
+[2024-05-22 00:06:24] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-22 00:06:30] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-22 00:06:32] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-22 00:06:33] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-22 00:06:51] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-22 00:07:56] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-22 00:07:56] Info: Connected to MySQL database at localhost
+[2024-05-22 00:07:59] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-22 00:07:59] Info: Connected to MySQL database at localhost
+[2024-05-22 00:12:10] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-22 00:12:10] Info: Connected to MySQL database at localhost
+[2024-05-22 00:12:17] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-22 00:12:17] Info: Connected to MySQL database at localhost
+[2024-05-22 00:14:15] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-22 00:14:15] Info: Connected to MySQL database at localhost
+[2024-05-22 00:14:19] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-22 00:14:19] Info: Connected to MySQL database at localhost
+[2024-05-22 00:15:29] Info: Trying to dispatch URI: /leanphp/api/user/1
+[2024-05-22 00:15:29] Info: Connected to MySQL database at localhost
+[2024-05-22 00:15:38] Info: Trying to dispatch URI: /leanphp/api/user/3
+[2024-05-22 00:15:38] Info: Connected to MySQL database at localhost
+[2024-05-22 00:15:40] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-22 00:15:40] Info: Connected to MySQL database at localhost
+[2024-05-22 00:18:26] Info: Trying to dispatch URI: /leanphp/register
+[2024-05-22 00:18:26] Info: Connected to MySQL database at localhost
+[2024-05-22 00:18:28] Info: Trying to dispatch URI: /leanphp/login
+[2024-05-22 00:18:28] Info: Connected to MySQL database at localhost
+[2024-05-22 00:18:30] Info: Trying to dispatch URI: /leanphp/auth/dashboard
+[2024-05-22 00:18:32] Info: Trying to dispatch URI: /leanphp/install
+[2024-05-22 00:18:34] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-22 00:18:34] Info: Connected to MySQL database at localhost
+[2024-05-22 00:18:38] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-22 00:18:38] Info: Connected to MySQL database at localhost
+[2024-05-22 00:18:40] Info: Trying to dispatch URI: /leanphp/sendMailForForgotPassword
+[2024-05-22 00:18:40] Info: Connected to MySQL database at localhost
+[2024-05-22 00:18:57] Info: Trying to dispatch URI: /leanphp/resetPassword/4162a39b0581b5c5b9b61b5a1469ab8b8b7714d71057b420beb65e29848b028c74798e3f70fd2d7573c0557e81493121bbfb
+[2024-05-22 00:18:57] Info: Connected to MySQL database at localhost
+[2024-05-23 22:07:05] Info: Trying to dispatch URI: /leanphp/api/users
+[2024-05-23 22:07:06] Info: Connected to MySQL database at localhost

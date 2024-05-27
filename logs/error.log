@@ -1,0 +1,144 @@
+[2024-05-16 14:39:25] Error: 404 Not Found: No route matches the provided URI - /leanphp/api/usesr/11
+[2024-05-16 18:32:39] Error: 404 Not Found: No route matches the provided URI - /leanphp/api/users
+[2024-05-16 18:33:21] Error: SQLSTATE[HY000] [1045] Access denied for user 'Vedat'@'81.214.160.106' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBconfig.php on line 68
+[2024-05-16 18:33:21] Error: SQLSTATE[HY000] [1045] Access denied for user 'Vedat'@'81.214.160.106' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBconfig.php on line 68
+[2024-05-16 18:33:56] Error: SQLSTATE[HY000] [1045] Access denied for user 'rooot'@'localhost' (using password: NO) in C:\xampp\htdocs\leanphp\src\config\DBconfig.php on line 68
+[2024-05-16 18:33:56] Error: SQLSTATE[HY000] [1045] Access denied for user 'rooot'@'localhost' (using password: NO) in C:\xampp\htdocs\leanphp\src\config\DBconfig.php on line 68
+[2024-05-16 19:26:30] Error: 404 Not Found: No route matches the provided URI - /leanphp/x
+[2024-05-17 20:36:06] Error: Unsupported driver:  in C:\xampp\htdocs\leanphp\src\config\DBconfig.php on line 44
+[2024-05-17 20:36:06] Error: Unsupported driver:  in C:\xampp\htdocs\leanphp\src\config\DBconfig.php on line 44
+[2024-05-17 20:37:04] Error: Unsupported driver:  in C:\xampp\htdocs\leanphp\src\config\DBconfig.php on line 45
+[2024-05-17 20:37:04] Error: Unsupported driver:  in C:\xampp\htdocs\leanphp\src\config\DBconfig.php on line 45
+[2024-05-17 21:07:11] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in C:\xampp\htdocs\leanphp\src\repository\Baserepository.php on line 24
+[2024-05-17 21:10:17] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in C:\xampp\htdocs\leanphp\src\repository\Baserepository.php on line 24
+[2024-05-17 21:38:27] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'profile' in 'field list' in C:\xampp\htdocs\leanphp\src\repository\Baserepository.php on line 34
+[2024-05-17 21:38:44] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'profile' in 'field list' in C:\xampp\htdocs\leanphp\src\repository\Baserepository.php on line 34
+[2024-05-17 21:41:56] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'profile' in 'field list' in C:\xampp\htdocs\leanphp\src\repository\Userrepository.php on line 48
+[2024-05-17 21:42:37] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'profile' in 'field list' in C:\xampp\htdocs\leanphp\src\repository\Userrepository.php on line 48
+[2024-05-17 21:45:26] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'profile' in 'field list' in C:\xampp\htdocs\leanphp\src\repository\Baserepository.php on line 34
+[2024-05-17 21:46:30] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'profile' in 'field list' in C:\xampp\htdocs\leanphp\src\repository\Baserepository.php on line 34
+[2024-05-17 21:58:12] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'address' in 'field list' in C:\xampp\htdocs\leanphp\src\repository\Baserepository.php on line 34
+[2024-05-17 21:59:50] Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'johndoe' for key 'username' in C:\xampp\htdocs\leanphp\src\repository\Baserepository.php on line 34
+[2024-05-17 23:27:07] Error: Failed to send email in C:\xampp\htdocs\leanphp\src\core\Emailservice.php on line 30
+[2024-05-17 23:27:09] Error: Failed to send email in C:\xampp\htdocs\leanphp\src\core\Emailservice.php on line 30
+[2024-05-17 23:31:29] Error: Failed to send email in C:\xampp\htdocs\leanphp\src\core\Emailservice.php on line 30
+[2024-05-17 23:31:31] Error: Failed to send email in C:\xampp\htdocs\leanphp\src\core\Emailservice.php on line 30
+[2024-05-17 23:35:47] Error: Failed to send email in C:\xampp\htdocs\leanphp\src\core\Emailservice.php on line 31
+[2024-05-17 23:35:49] Error: Failed to send email in C:\xampp\htdocs\leanphp\src\core\Emailservice.php on line 31
+[2024-05-17 23:36:55] Error: 404 Not Found: No route matches the provided URI - /leanphp/resetPassword/resetPassword/5c65cac541d97bd10cf686ba3d1a345ab11de18c0180a10ef2f7bb6a53b32bfee4b6401ccb784f31736d6e11ad2eaab84cb7
+[2024-05-17 23:55:32] Error: 404 Not Found: No route matches the provided URI - /leanphp/user/1
+[2024-05-17 23:55:40] Error: 404 Not Found: No route matches the provided URI - /leanphp/user/s
+[2024-05-17 23:56:40] Error: 404 Not Found: No route matches the provided URI - /leanphp/api/secret
+[2024-05-17 23:56:47] Error: Authorization header is missing in C:\xampp\htdocs\leanphp\src\core\JwtHelper.php on line 26
+[2024-05-17 23:56:52] Error: 404 Not Found: No route matches the provided URI - /leanphp/users
+[2024-05-18 00:25:33] Error: Failed to send email in C:\xampp\htdocs\leanphp\src\core\Mailer.php on line 32
+[2024-05-18 00:25:35] Error: Failed to send email in C:\xampp\htdocs\leanphp\src\core\Mailer.php on line 32
+[2024-05-18 22:15:17] Error: 404 Not Found: No route matches the provided URI - /leanphp/users
+[2024-05-18 22:28:29] Error: 404 Not Found: No route matches the provided URI - /leanphp/
+[2024-05-18 22:33:56] Error: 404 Not Found: No route matches the provided URI - /leanphp/
+[2024-05-18 22:44:08] Error: 404 Not Found: No route matches the provided URI - /leanphp/users
+[2024-05-18 22:44:10] Error: 404 Not Found: No route matches the provided URI - /leanphp/users
+[2024-05-18 23:08:54] Error: Unsupported driver:  in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 50
+[2024-05-18 23:08:54] Error: Unsupported driver:  in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 50
+[2024-05-18 23:13:55] Error: Unsupported driver:  in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 44
+[2024-05-18 23:13:55] Error: Unsupported driver:  in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 44
+[2024-05-18 23:20:15] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 65
+[2024-05-18 23:20:15] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 65
+[2024-05-18 23:23:36] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:23:36] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:23:37] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:23:37] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:23:49] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:23:49] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:25:25] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:25:25] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:25:26] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:25:26] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:25:28] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:25:28] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:25:29] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:25:29] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:25:53] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:25:53] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:28:53] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:28:53] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:28:54] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:28:54] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:28:54] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:28:54] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 71
+[2024-05-18 23:30:00] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 72
+[2024-05-18 23:30:00] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 72
+[2024-05-18 23:30:01] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 72
+[2024-05-18 23:30:01] Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\leanphp\src\config\DBConfig.php on line 72
+[2024-05-19 15:54:55] Error: Authorization header is missing in C:\xampp\htdocs\leanphp\.src\core\JwtHelper.php on line 26
+[2024-05-19 15:56:40] Error: Authorization header is missing in C:\xampp\htdocs\leanphp\.src\core\JwtHelper.php on line 26
+[2024-05-19 16:02:26] Error: Authorization header is missing in C:\xampp\htdocs\leanphp\.src\core\JwtHelper.php on line 26
+[2024-05-19 16:04:04] Error: Authorization header is missing in C:\xampp\htdocs\leanphp\.src\core\JwtHelper.php on line 26
+[2024-05-19 23:50:31] Error: Failed to send email in C:\xampp\htdocs\leanphp\core\Mailer.php on line 32
+[2024-05-20 08:03:14] Error: 404 Not Found: No route matches the provided URI - /leanphp/login.html
+[2024-05-20 08:39:27] Error: 404 Not Found: No route matches the provided URI - /leanphp/users
+[2024-05-20 08:39:59] Error: 404 Not Found: No route matches the provided URI - /leanphp/users
+[2024-05-20 08:40:39] Error: 404 Not Found: No route matches the provided URI - /leanphp/users
+[2024-05-20 09:45:11] Error: 404 Not Found: No route matches the provided URI - /leanphp/profile
+[2024-05-20 09:58:16] Error: Failed to send email in C:\xampp\htdocs\leanphp\core\Mailer.php on line 32
+[2024-05-20 10:10:57] Error: Failed to send email in C:\xampp\htdocs\leanphp\core\Mailer.php on line 32
+[2024-05-20 10:11:41] Error: Failed to send email in C:\xampp\htdocs\leanphp\core\Mailer.php on line 32
+[2024-05-20 10:15:12] Error: Failed to send email in C:\xampp\htdocs\leanphp\core\Mailer.php on line 32
+[2024-05-20 10:20:29] Error: Failed to send email in C:\xampp\htdocs\leanphp\core\Mailer.php on line 32
+[2024-05-20 10:20:32] Error: Failed to send email in C:\xampp\htdocs\leanphp\core\Mailer.php on line 32
+[2024-05-20 10:28:22] Error: Failed to send email in C:\xampp\htdocs\leanphp\core\Mailer.php on line 32
+[2024-05-20 10:52:11] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 11:03:57] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 11:04:09] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 11:06:41] Error: Failed to send email in C:\xampp\htdocs\leanphp\core\Mailer.php on line 32
+[2024-05-20 11:06:56] Error: Failed to send email in C:\xampp\htdocs\leanphp\core\Mailer.php on line 32
+[2024-05-20 11:07:17] Error: 404 Not Found: No route matches the provided URI - /leanphp/resetPassword/dd940843149949c1f1b11aeed0d24d1f10d91ccb05e9297fefd665db64bab34fc362b9c0265dccf7025ffbcb0d52ec62ab78'%3EReset
+[2024-05-20 11:13:04] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 11:17:48] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 11:20:00] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 11:21:50] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 11:22:20] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 11:24:04] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 11:25:42] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 11:26:26] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 11:26:52] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 11:27:19] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 11:34:37] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 11:36:18] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 11:37:09] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 11:39:29] Error: Failed to send email in C:\xampp\htdocs\leanphp\core\Mailer.php on line 32
+[2024-05-20 11:39:36] Error: Failed to send email in C:\xampp\htdocs\leanphp\core\Mailer.php on line 32
+[2024-05-20 11:40:34] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 11:41:02] Error: Failed to send email in C:\xampp\htdocs\leanphp\core\Mailer.php on line 32
+[2024-05-20 11:57:27] Error: Failed to send email in C:\xampp\htdocs\leanphp\core\Mailer.php on line 30
+[2024-05-20 11:57:34] Error: Failed to send email in C:\xampp\htdocs\leanphp\core\Mailer.php on line 30
+[2024-05-20 12:05:30] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 12:09:24] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 12:09:53] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 12:11:34] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 12:16:27] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 12:18:00] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 12:19:19] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 12:23:39] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 12:34:56] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 12:38:18] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 12:38:59] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 12:44:32] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 12:44:39] Error: Email Send Error!: Failed to send email. Please check your mail server configuration. in C:\xampp\htdocs\leanphp\core\Mailer.php on line 35
+[2024-05-20 12:48:16] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 12:50:03] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 12:50:35] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 12:58:58] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 13:02:38] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 13:16:49] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 13:19:00] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 13:22:11] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 13:22:48] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 13:33:43] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 13:34:28] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 137
+[2024-05-20 14:17:53] Error: 404 Not Found: No route matches the provided URI - /leanphp/profile
+[2024-05-20 14:17:58] Error: 404 Not Found: No route matches the provided URI - /leanphp/profile
+[2024-05-21 12:05:20] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 135
+[2024-05-21 15:26:54] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 135
+[2024-05-21 15:27:23] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 135
+[2024-05-21 15:27:26] Error: Email not found! in C:\xampp\htdocs\leanphp\app\repository\UserRepository.php on line 135

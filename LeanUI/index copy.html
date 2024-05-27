@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kullanıcı Yönetimi</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.0.0/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 font-sans leading-normal tracking-normal">
+
+<nav class="bg-gray-800 p-4">
+    <div class="container mx-auto">
+        <a href="#" class="text-white text-3xl">API İstemcisi</a>
+    </div>
+</nav>
+
+<div class="container mx-auto mt-10">
+    <div class="bg-white p-8 border-t-4 border-gray-400">
+        <div class="rounded overflow-hidden shadow-lg p-10 bg-white">
+            <div id="userForm" class="mb-4">
+                <h2 class="text-2xl mb-4">Kullanıcı Kayıt / Giriş</h2>
+                <input type="text" id="username" placeholder="Kullanıcı Adı" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+                <input type="password" id="password" placeholder="Şifre" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:shadow-outline" required>
+                <input type="email" id="email" placeholder="E-posta" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+                <button onclick="registerUser()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Kayıt Ol</button>
+                <button onclick="loginUser()" class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Giriş Yap</button>
+            </div>
+            <div id="dataList" class="mb-4">
+                <h2 class="text-2xl mb-4">Kullanıcı Listesi</h2>
+                <ul class="list-disc pl-5"></ul>
+            </div>
+            <div id="resetForm" class="mb-4">
+                <h2 class="text-2xl mb-4">Şifre Sıfırlama İsteği</h2>
+                <input type="email" id="resetEmail" placeholder="E-posta" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+                <button onclick="requestPasswordReset(document.getElementById('resetEmail').value)" class="bg-orange-500 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Şifre Sıfırlama Bağlantısı Gönder</button>
+            </div>
+            <div id="newPasswordForm" class="mb-4">
+                <h2 class="text-2xl mb-4">Yeni Şifre Belirle</h2>
+                <input type="text" id="resetToken" placeholder="Sıfırlama Tokenı" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+                <input type="password" id="newPassword" placeholder="Yeni Şifre" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:shadow-outline" required>
+                <button onclick="resetPassword(document.getElementById('resetToken').value, document.getElementById('newPassword').value)" class="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Şifreyi Sıfırla</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

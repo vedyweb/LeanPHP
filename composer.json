@@ -1,0 +1,30 @@
+{
+    "name": "leanphp/framework",
+    "description": "LeanPHP Framework - A micro PHP framework for agile startups.",
+    "keywords": ["leanphp", "framework", "php", "minimal"],
+    "homepage": "https://leanphp.io",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vedat Yıldırım",
+            "email": "vedatyildirimofficial@gmail.com",
+            "homepage": "https://leanphp.io",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/leanphpframework/issues",
+        "source": "https://github.com/leanphpframework"
+    },
+    "autoload": {
+        "psr-4": {
+            "leanphp\\app\\": "app/",
+            "leanphp\\core\\": "core/"
+        }
+    },
+    "require": {},
+
+    "extra": {
+        "note": "Composer usage is OPTIONAL. Users can choose to use Composer to manage dependencies and autoloading."
+    }
+}
